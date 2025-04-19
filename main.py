@@ -141,7 +141,7 @@ def get10Cards():
                     case _:
                         continue
             totalValue += round(value, 2)
-            marketValue = card["tcgplayer"]["prices"]["market"]
+            marketValue = card.get("tcgplayer")["prices"]["market"]
             pulled_cards.append(
                 {
                     "card_title": f"{card.get("rarity", "Unknown")} {name} {prefix}",
