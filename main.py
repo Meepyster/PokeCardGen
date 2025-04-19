@@ -77,9 +77,9 @@ def get10Cards():
                 case "Rare Holo GX":
                     value = 2.60
                 case "Rare Ultra":
-                    value = 3.00
+                    value = 10.00
                 case "Rare Holo VMAX":
-                    value = 3.00
+                    value = 10.00
                 case "Rare Prime":
                     value = 4.20
                 case "Amazing Rare":
