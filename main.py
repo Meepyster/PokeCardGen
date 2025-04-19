@@ -58,25 +58,25 @@ def get10Cards():
                 case "Unknown":
                     value = round(base_exp / 150, 2)
                 case "Common":
-                    value = 0.10
+                    value = 0.05
                 case "Uncommon":
-                    value = 0.20
+                    value = 0.10
                 case "Rare":
-                    value = 0.50
+                    value = 0.30
                 case "Rare Holo":
-                    value = 0.80
+                    value = 0.50
                 case "Rare BREAK":
-                    value = 1.50
+                    value = 1.20
                 case "Rare Holo V":
-                    value = 2.00
+                    value = 1.50
                 case "Rare Holo EX":
-                    value = 2.50
+                    value = 2.20
                 case "Rare Holo GX":
-                    value = 3.00
+                    value = 2.60
                 case "Rare Ultra":
-                    value = 4.00
+                    value = 3.00
                 case "Rare Prime":
-                    value = 4.50
+                    value = 4.20
                 case "Amazing Rare":
                     value = 5.00
                 case "Rare Holo LV.X":
@@ -86,15 +86,15 @@ def get10Cards():
                 case "Rare Shiny GX":
                     value = 8.00
                 case "Rare Rainbow":
-                    value = 15.00
+                    value = 12.00
                 case "Rare Prism Star":
-                    value = 20.00
+                    value = 18.00
                 case "Rare Holo Star":
-                    value = 21.00
+                    value = 20.00
                 case "LEGEND":
-                    value = 22.00
+                    value = 21.00
                 case "Rare Secret":
-                    value = 23.00
+                    value = 22.00
                 case "Promo":
                     value = round(base_exp / 55, 2)
                 case "Illustration Rare":
