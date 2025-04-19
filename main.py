@@ -144,7 +144,7 @@ def get10Cards():
                         value *= 8.0
                         value = round(value, 2)
                     case "tera":
-                        value *= 5
+                        value *= 5.0
                         value = round(value, 2)
                     case _:
                         continue
