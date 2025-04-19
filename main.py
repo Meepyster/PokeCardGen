@@ -146,6 +146,9 @@ def get10Cards():
                     case "tera":
                         value *= 5.0
                         value = round(value, 2)
+                    case "sp":
+                        value *= 1.3
+                        value = round(value, 2)
                     case _:
                         continue
             totalValue += round(value, 2)
