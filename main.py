@@ -92,9 +92,9 @@ def get10Cards():
                 case "Rare Holo Star":
                     value = 21.00
                 case "LEGEND":
-                    value = 23.00
+                    value = 22.00
                 case "Rare Secret":
-                    value = 40.00
+                    value = 23.00
                 case "Promo":
                     value = round(base_exp / 55, 2)
                 case "Illustration Rare":
@@ -121,6 +121,9 @@ def get10Cards():
                         value *= 2.2
                         value = round(value, 2)
                     case "VMAX":
+                        value *= 2.5
+                        value = round(value, 2)
+                    case "VSTAR":
                         value *= 2.5
                         value = round(value, 2)
                     case "LEGEND":
