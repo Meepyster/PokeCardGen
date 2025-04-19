@@ -82,7 +82,7 @@ def get10Cards():
                 case "Rare Holo LV.X":
                     value = 6.00
                 case "Rare Shiny":
-                    value = 7.00
+                    value = 2.00
                 case "Rare Shiny GX":
                     value = 8.00
                 case "Rare Rainbow":
