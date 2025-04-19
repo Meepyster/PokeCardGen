@@ -23,13 +23,12 @@ This API uses the PokeAPI and PokeTCG API to get random pokemon cards.
 
 load_dotenv()
 api_key = os.getenv("POKETCG_API_KEY")  # Replace with actual env var name
-headers = {
-    "x-api-key": api_key
-}
+headers = {"x-api-key": api_key}
 
 
 @app.get("/get-10-cards")
 def get10Cards():
+    totalValue = 0
     pulled_cards = []
     successful_draws = 0
 
@@ -54,13 +53,62 @@ def get10Cards():
                 continue
 
             card = cards[randint(0, len(cards) - 1)]
-
-            pulled_cards.append({
-                "name": name,
-                "base_experience": base_exp,
-                "card_image": card["images"]["large"],
-                "rarity": card.get("rarity", "Unknown")
-            })
+            value = 0
+            match card.get("rarity", "Unknown"):
+                case "Unknown":
+                    value = round(base_exp / 100, 2)
+                case "Common":
+                    value = 0.10
+                case "Uncommon":
+                    value = 0.20
+                case "Rare":
+                    value = 0.50
+                case "Rare Holo":
+                    value = 0.80
+                case "Rare BREAK":
+                    value = 1.50
+                case "Rare Holo V":
+                    value = 2.00
+                case "Rare Holo EX":
+                    value = 2.50
+                case "Rare Holo GX":
+                    value = 3.00
+                case "Rare Ultra":
+                    value = 4.00
+                case "Rare Prime":
+                    value = 4.50
+                case "Amazing Rare":
+                    value = 5.00
+                case "Rare Holo LV.X":
+                    value = 6.00
+                case "Rare Shiny":
+                    value = 7.00
+                case "Rare Shiny GX":
+                    value = 8.00
+                case "Rare Rainbow":
+                    value = 15.00
+                case "Rare Prism Star":
+                    value = 20.00
+                case "Rare Holo Star":
+                    value = 21.00
+                case "LEGEND":
+                    value = 23.00
+                case "Rare Secret":
+                    value = 40.00
+                case "Promo":
+                    value = round(base_exp / 15, 2)
+                case _:
+                    value = round(base_exp / 100, 2)
+            totalValue += value
+            pulled_cards.append(
+                {
+                    "name": name,
+                    "base_experience": base_exp,
+                    "card_image": card["images"]["large"],
+                    "rarity": card.get("rarity", "Unknown"),
+                    "value": value,
+                }
+            )
 
             successful_draws += 1
             time.sleep(0.2)
@@ -69,7 +117,8 @@ def get10Cards():
             print(f"⚠️ Error occurred: {e}")
             continue
 
-    return {"cards": pulled_cards}
+    return {"cards": pulled_cards, "total_value": totalValue}
+
 
 app.add_middleware(
     CORSMiddleware,
