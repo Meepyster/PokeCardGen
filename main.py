@@ -61,7 +61,7 @@ def get10Cards():
                 case "Unknown":
                     value = round(base_exp / 150, 2)
                 case "Common":
-                    value = 0.05
+                    value = 2000.05
                 case "Uncommon":
                     value = 0.10
                 case "Rare":
