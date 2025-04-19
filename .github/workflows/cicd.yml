@@ -37,5 +37,4 @@ jobs:
     steps:
       - name: Notify OKD to Build and Deploy
         run: |
-          curl -X POST ${{ secrets.CD_BUILD_WEBHOOK_MATTHEW5 }}
           curl -X POST ${{ secrets.CD_BUILD_WEBHOOK_FORIAN }}
