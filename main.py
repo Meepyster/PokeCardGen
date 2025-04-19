@@ -97,6 +97,8 @@ def get10Cards():
                     value = 40.00
                 case "Promo":
                     value = round(base_exp / 55, 2)
+                case "Illustration Rare":
+                    value = round(base_exp / 30, 2)
                 case _:
                     value = round(base_exp / 100, 2)
             totalValue += value
