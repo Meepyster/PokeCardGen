@@ -12,12 +12,14 @@ app = FastAPI(
     title="Pokemon 10 Card Gen",
     contact={
         "name": "Meepyster",
-        "url": "https://example.com",
+        "url": "https://github.com/Meepyster/PokeCardGen",
     },
     description="""
 ## Introduction to this API
 
 This API uses the PokeAPI and PokeTCG API to get random pokemon cards.
+https://pokeapi.co/
+https://pokemontcg.io/
 """,
 )
 
@@ -134,6 +136,7 @@ def get10Cards():
             totalValue += round(value, 2)
             pulled_cards.append(
                 {
+                    "card_title": f"{card.get("rarity", "Unknown")} {name} {subtypes[-1]}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
