@@ -14,4 +14,4 @@ popd
 # Install Python Packages
 pip install --upgrade pip
 pip install -r requirements.txt
-pip3 install requests
+pip install requests
