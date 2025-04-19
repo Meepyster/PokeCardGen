@@ -31,6 +31,7 @@ headers = {"x-api-key": api_key}
 @app.get("/get-10-cards")
 def get10Cards():
     totalValue = 0
+    realWorldtotalValue = 0
     pulled_cards = []
     successful_draws = 0
 
@@ -143,8 +144,12 @@ def get10Cards():
             totalValue += round(value, 2)
             if not card.get("tcgplayer", []):
                 marketValue = 0
+                print("\n\n NONE \n\n")
             else:
-                marketValue = card.get("tcgplayer")["prices"]["market"]
+                res = next(iter(card.get("tcgplayer")["prices"]))
+                marketValue = card.get("tcgplayer")["prices"][res]["market"]
+                print(f"\n\n {marketValue} \n\n ")
+            realWorldtotalValue += marketValue
             pulled_cards.append(
                 {
                     "card_title": f"{card.get("rarity", "Unknown")} {name} {prefix}",
@@ -166,7 +171,11 @@ def get10Cards():
             print(f"⚠️ Error occurred: {e}")
             continue
 
-    return {"cards": pulled_cards, "total_value": round(totalValue, 2)}
+    return {
+        "cards": pulled_cards,
+        "total_value": round(totalValue, 2),
+        "realworld_total_value": round(realWorldtotalValue, 2),
+    }
 
 
 app.add_middleware(
