@@ -107,21 +107,28 @@ def get10Cards():
                 match subtype:
                     case "EX":
                         value *= 1.2
+                        value = round(value, 2)
                     case "GX":
                         value *= 1.3
+                        value = round(value, 2)
                     case "V":
                         value *= 1.8
+                        value = round(value, 2)
                     case "TAG TEAM":
                         value *= 2.0
+                        value = round(value, 2)
                     case "MEGA":
                         value *= 2.2
+                        value = round(value, 2)
                     case "VMAX":
                         value *= 2.5
+                        value = round(value, 2)
                     case "LEGEND":
                         value *= 3.0
+                        value = round(value, 2)
                     case _:
                         continue
-            totalValue += value
+            totalValue += round(value, 2)
             pulled_cards.append(
                 {
                     "name": name,
