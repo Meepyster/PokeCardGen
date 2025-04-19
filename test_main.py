@@ -6,8 +6,8 @@ client = TestClient(app)
 
 def test_get10Cards():
     """Simple Sample Test"""
-    # response = client.get("/get-10-cards")
-    # assert response.status_code == 200
-    # data = response.json()
-    # assert len(data["cards"]) == 10
+    response = client.get("/get-10-cards")
+    assert response.status_code == 200
+    data = response.json()
+    assert len(data["cards"]) == 10
     assert True

@@ -78,6 +78,8 @@ def get10Cards():
                     value = 2.60
                 case "Rare Ultra":
                     value = 3.00
+                case "Rare Holo VMAX":
+                    value = 3.00
                 case "Rare Prime":
                     value = 4.20
                 case "Amazing Rare":
@@ -111,31 +113,31 @@ def get10Cards():
                     case "EX":
                         value *= 1.2
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "GX":
                         value *= 1.3
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "V":
                         value *= 1.8
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "TAG TEAM":
                         value *= 2.0
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "MEGA":
                         value *= 2.2
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "VMAX":
                         value *= 2.5
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "VSTAR":
                         value *= 2.5
                         value = round(value, 2)
-                        prefix = subtype
+                        # prefix = subtype
                     case "LEGEND":
                         value *= 3.0
                         value = round(value, 2)
@@ -152,7 +154,7 @@ def get10Cards():
             realWorldtotalValue += marketValue
             pulled_cards.append(
                 {
-                    "card_title": f"{card.get("rarity", "Unknown")} {name} {prefix}",
+                    "card_title": f"{card.get("rarity", "Unknown")} {name}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
