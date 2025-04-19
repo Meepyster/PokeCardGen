@@ -101,6 +101,24 @@ def get10Cards():
                     value = round(base_exp / 30, 2)
                 case _:
                     value = round(base_exp / 100, 2)
+            subtypes = card.get("subtypes", [])
+
+            for subtype in subtypes:
+                match subtype:
+                    case "EX":
+                        value *= 1.2
+                    case "GX":
+                        value *= 1.3
+                    case "V":
+                        value *= 1.8
+                    case "TAG TEAM":
+                        value *= 2.0
+                    case "MEGA":
+                        value *= 2.2
+                    case "VMAX":
+                        value *= 2.5
+                    case "LEGEND":
+                        value *= 3.0
             totalValue += value
             pulled_cards.append(
                 {
@@ -108,6 +126,7 @@ def get10Cards():
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
                     "rarity": card.get("rarity", "Unknown"),
+                    "subtypes": subtypes,
                     "value": value,
                 }
             )
