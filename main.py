@@ -136,7 +136,7 @@ def get10Cards():
             totalValue += round(value, 2)
             pulled_cards.append(
                 {
-                    "card_title": f"{card.get("rarity", "Unknown")} {name} {subtypes[-1]}",
+                    "card_title": f"{card.get("rarity", "Unknown")} {name} {subtypes[0]}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
