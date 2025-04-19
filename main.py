@@ -104,45 +104,55 @@ def get10Cards():
                 case _:
                     value = round(base_exp / 100, 2)
             subtypes = card.get("subtypes", [])
-
+            prefix = ""
             for subtype in subtypes:
                 match subtype:
                     case "EX":
                         value *= 1.2
                         value = round(value, 2)
+                        prefix = subtype
                     case "GX":
                         value *= 1.3
                         value = round(value, 2)
+                        prefix = subtype
                     case "V":
                         value *= 1.8
                         value = round(value, 2)
+                        prefix = subtype
                     case "TAG TEAM":
                         value *= 2.0
                         value = round(value, 2)
+                        prefix = subtype
                     case "MEGA":
                         value *= 2.2
                         value = round(value, 2)
+                        prefix = subtype
                     case "VMAX":
                         value *= 2.5
                         value = round(value, 2)
+                        prefix = subtype
                     case "VSTAR":
                         value *= 2.5
                         value = round(value, 2)
+                        prefix = subtype
                     case "LEGEND":
                         value *= 3.0
                         value = round(value, 2)
                     case _:
                         continue
             totalValue += round(value, 2)
+            marketValue = card["tcgplayer"]["prices"]["market"]
             pulled_cards.append(
                 {
-                    "card_title": f"{card.get("rarity", "Unknown")} {name} {subtypes[0]}",
+                    "card_title": f"{card.get("rarity", "Unknown")} {name} {prefix}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
                     "rarity": card.get("rarity", "Unknown"),
                     "subtypes": subtypes,
                     "value": value,
+                    "real-market-value": marketValue,
+                    "discrepancy-ratio": round(marketValue / value, 2),
                 }
             )
 
