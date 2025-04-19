@@ -61,7 +61,7 @@ def get10Cards():
                 case "Unknown":
                     value = round(base_exp / 150, 2)
                 case "Common":
-                    value = 2000.05
+                    value = 0.05
                 case "Uncommon":
                     value = 0.10
                 case "Rare":
@@ -142,6 +142,9 @@ def get10Cards():
                         # prefix = subtype
                     case "legend":
                         value *= 8.0
+                        value = round(value, 2)
+                    case "tera":
+                        value *= 5
                         value = round(value, 2)
                     case _:
                         continue
