@@ -97,7 +97,7 @@ def get10Cards():
                 case "Rare Holo Star":
                     value = 20.00
                 case "LEGEND":
-                    value = 21.00
+                    value = 25.00
                 case "Rare Secret":
                     value = 22.00
                 case "Promo":
@@ -123,7 +123,7 @@ def get10Cards():
                         value = round(value, 2)
                         # prefix = subtype
                     case "TAG TEAM":
-                        value *= 2.0
+                        value *= 5.0
                         value = round(value, 2)
                         # prefix = subtype
                     case "MEGA":
@@ -139,7 +139,7 @@ def get10Cards():
                         value = round(value, 2)
                         # prefix = subtype
                     case "LEGEND":
-                        value *= 3.0
+                        value *= 8.0
                         value = round(value, 2)
                     case _:
                         continue
