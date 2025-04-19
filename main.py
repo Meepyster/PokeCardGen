@@ -56,7 +56,7 @@ def get10Cards():
             value = 0
             match card.get("rarity", "Unknown"):
                 case "Unknown":
-                    value = round(base_exp / 100, 2)
+                    value = round(base_exp / 150, 2)
                 case "Common":
                     value = 0.10
                 case "Uncommon":
@@ -96,7 +96,7 @@ def get10Cards():
                 case "Rare Secret":
                     value = 40.00
                 case "Promo":
-                    value = round(base_exp / 25, 2)
+                    value = round(base_exp / 55, 2)
                 case _:
                     value = round(base_exp / 100, 2)
             totalValue += value
@@ -117,7 +117,7 @@ def get10Cards():
             print(f"⚠️ Error occurred: {e}")
             continue
 
-    return {"cards": pulled_cards, "total_value": totalValue}
+    return {"cards": pulled_cards, "total_value": round(totalValue, 2)}
 
 
 app.add_middleware(
