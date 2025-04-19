@@ -141,7 +141,7 @@ def get10Cards():
                     case _:
                         continue
             totalValue += round(value, 2)
-            if not card.get("tcgplayer"):
+            if not card.get("tcgplayer", []):
                 marketValue = 0
             else:
                 marketValue = card.get("tcgplayer")["prices"]["market"]
