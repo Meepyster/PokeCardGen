@@ -34,7 +34,7 @@ def get10Cards():
 
     while successful_draws < 10:
         try:
-            pokemon_id = randint(1, 1000)
+            pokemon_id = randint(1, 1025)
             url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
             response = requests.get(url)
             response.raise_for_status()
