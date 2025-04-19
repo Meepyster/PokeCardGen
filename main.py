@@ -119,6 +119,8 @@ def get10Cards():
                         value *= 2.5
                     case "LEGEND":
                         value *= 3.0
+                    case _:
+                        continue
             totalValue += value
             pulled_cards.append(
                 {
