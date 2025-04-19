@@ -73,7 +73,7 @@ def get10Cards():
                 case "Rare Holo V":
                     value = 1.50
                 case "Rare Holo EX":
-                    value = 2.20
+                    value = 3.20
                 case "Rare Holo GX":
                     value = 2.60
                 case "Rare Ultra":
@@ -104,41 +104,43 @@ def get10Cards():
                     value = round(base_exp / 55, 2)
                 case "Illustration Rare":
                     value = round(base_exp / 30, 2)
+                case "Special Illustration Rare":
+                    value = 20
                 case _:
                     value = round(base_exp / 100, 2)
             subtypes = card.get("subtypes", [])
             prefix = ""
             for subtype in subtypes:
-                match subtype:
-                    case "EX":
+                match subtype.lower():
+                    case "ex":
                         value *= 1.2
                         value = round(value, 2)
                         # prefix = subtype
-                    case "GX":
+                    case "gx":
                         value *= 1.3
                         value = round(value, 2)
                         # prefix = subtype
-                    case "V":
+                    case "v":
                         value *= 1.8
                         value = round(value, 2)
                         # prefix = subtype
-                    case "TAG TEAM":
+                    case "tag team":
                         value *= 5.0
                         value = round(value, 2)
                         # prefix = subtype
-                    case "MEGA":
+                    case "mega":
                         value *= 2.2
                         value = round(value, 2)
                         # prefix = subtype
-                    case "VMAX":
+                    case "vmax":
                         value *= 2.5
                         value = round(value, 2)
                         # prefix = subtype
-                    case "VSTAR":
+                    case "vast":
                         value *= 2.5
                         value = round(value, 2)
                         # prefix = subtype
-                    case "LEGEND":
+                    case "legend":
                         value *= 8.0
                         value = round(value, 2)
                     case _:
