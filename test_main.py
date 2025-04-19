@@ -9,4 +9,4 @@ def test_get10Cards():
     response = client.get("/get-10-cards")
     assert response.status_code == 200
     data = response.json()
-    assert len(data) == 10
+    assert len(data["cards"]) == 10
