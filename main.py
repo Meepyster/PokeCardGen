@@ -129,7 +129,7 @@ def get10Cards():
                         value = round(value, 2)
                         # prefix = subtype
                     case "mega":
-                        value *= 2.2
+                        value *= 5
                         value = round(value, 2)
                         # prefix = subtype
                     case "vmax":
