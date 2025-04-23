@@ -94,6 +94,8 @@ def get10Cards():
                     value = 2.00
                 case "Rare Shiny GX":
                     value = 8.00
+                case "Shiny Rare":
+                    value = round(base_exp / 30, 2) + 5
                 case "Rare Rainbow":
                     value = 12.00
                 case "Rare Prism Star":
