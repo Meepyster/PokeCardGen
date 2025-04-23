@@ -61,17 +61,19 @@ def get10Cards():
                 case "Unknown":
                     value = round(base_exp / 150, 2)
                 case "Common":
-                    value = 0.05
+                    value = 0.5
                 case "Uncommon":
-                    value = 0.10
+                    value = 0.8
                 case "Rare":
-                    value = 0.30
+                    value = 1.3
+                case "Double Rare":
+                    value = 2
                 case "Rare Holo":
-                    value = 0.50
+                    value = 1.5
                 case "Rare BREAK":
                     value = 20
                 case "Rare Holo V":
-                    value = 1.50
+                    value = 2
                 case "Rare Holo EX":
                     value = 3.20
                 case "Rare Holo GX":
