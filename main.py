@@ -106,6 +106,8 @@ def get10Cards():
                     value = round(base_exp / 30, 2)
                 case "Special Illustration Rare":
                     value = 20
+                case "Trainer Gallery Rare":
+                    value = 25
                 case _:
                     value = round(base_exp / 100, 2)
             subtypes = card.get("subtypes", [])
