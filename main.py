@@ -98,6 +98,8 @@ def get10Cards():
                     value = 18.00
                 case "Rare Holo Star":
                     value = 20.00
+                case "Rare Holo VSTAR":
+                    value = 15.00
                 case "LEGEND":
                     value = 25.00
                 case "Rare Secret":
@@ -143,7 +145,7 @@ def get10Cards():
                         value *= 2.5
                         value = round(value, 2)
                         # prefix = subtype
-                    case "vast":
+                    case "vstar":
                         value *= 2.5
                         value = round(value, 2)
                         # prefix = subtype
