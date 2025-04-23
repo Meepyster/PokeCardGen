@@ -134,7 +134,7 @@ def get10Cards():
                         value = round(value, 2)
                         prefix = " Tag Team"
                     case "mega":
-                        suffix = "Mega "
+                        suffix = " Mega "
                         value *= 5
                         value = round(value, 2)
                         # prefix = subtype
