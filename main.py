@@ -135,7 +135,7 @@ def get10Cards():
                         value = round(value, 2)
                         prefix = " Tag Team"
                     case "mega":
-                        prefix = " Mega "
+                        prefix = " Mega"
                         value *= 5
                         value = round(value, 2)
                         # prefix = subtype
@@ -169,7 +169,7 @@ def get10Cards():
             realWorldtotalValue += marketValue
             pulled_cards.append(
                 {
-                    "card_title": f"{card.get("rarity", "Unknown")}{prefix}{name.capitalize()}{suffix}",
+                    "card_title": f"{card.get("rarity", "Unknown")}{prefix} {name.capitalize()}{suffix}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
