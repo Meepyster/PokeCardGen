@@ -114,6 +114,7 @@ def get10Cards():
                     value = round(base_exp / 100, 2)
             subtypes = card.get("subtypes", [])
             prefix = ""
+            suffix = ""
             for subtype in subtypes:
                 match subtype.lower():
                     case "ex":
@@ -131,8 +132,9 @@ def get10Cards():
                     case "tag team":
                         value *= 5.0
                         value = round(value, 2)
-                        # prefix = subtype
+                        prefix = " Tag Team"
                     case "mega":
+                        suffix = "Mega "
                         value *= 5
                         value = round(value, 2)
                         # prefix = subtype
@@ -166,7 +168,7 @@ def get10Cards():
             realWorldtotalValue += marketValue
             pulled_cards.append(
                 {
-                    "card_title": f"{card.get("rarity", "Unknown")} {name.capitalize()}{prefix}",
+                    "card_title": f"{card.get("rarity", "Unknown")}{suffix}{name.capitalize()}{prefix}",
                     "name": name,
                     "base_experience": base_exp,
                     "card_image": card["images"]["large"],
