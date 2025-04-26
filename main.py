@@ -6,7 +6,8 @@ import os
 import time
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, HTTPException
-
+from pydantic import BaseModel, Field
+from typing import Annotated
 
 app = FastAPI(
     title="Pokemon 10 Card Gen",
@@ -23,9 +24,26 @@ https://pokemontcg.io/
 """,
 )
 
+cardDB = {}
+
 load_dotenv()
 api_key = os.getenv("POKETCG_API_KEY")  # Replace with actual env var name
 headers = {"x-api-key": api_key}
+
+
+class Card(BaseModel):
+    id: str
+    card_title: str
+    name: str
+    base_experience: int
+    card_image: str
+    rarity: str
+    subtypes: str
+    value: float
+    real_market_value: float
+    discrepancy_ratio: float
+
+
 
 
 @app.get("/get-10-cards")
@@ -202,6 +220,24 @@ def get10Cards():
         "realworld_total_value": round(realWorldtotalValue, 2),
     }
 
+
+
+@app.post("/postCard")
+def postCardForSale(card: Card):
+    cardDB[card.id] = card.dict()
+    return {
+        "qr_code": f"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={card.id}"
+    }
+
+
+@app.get("/trade-cards/{card_id}")
+def getCardForSale(card_id: str):
+    if card_id not in cardDB:
+        raise HTTPException(status_code=404, detail="Card not found for trade")
+    copyCard = cardDB.pop(card_id)
+    return copyCard
+
+                          
 
 app.add_middleware(
     CORSMiddleware,
