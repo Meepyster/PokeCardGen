@@ -8,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from typing import Annotated
+from typing import List, Dict, Optional
 
 app = FastAPI(
     title="Pokemon 10 Card Gen",
@@ -24,8 +25,6 @@ https://pokemontcg.io/
 """,
 )
 
-cardDB = {}
-
 load_dotenv()
 api_key = os.getenv("POKETCG_API_KEY")  # Replace with actual env var name
 headers = {"x-api-key": api_key}
@@ -38,12 +37,112 @@ class Card(BaseModel):
     base_experience: int
     card_image: str
     rarity: str
-    subtypes: str
+    subtypes: List[str]
     value: float
     real_market_value: float
     discrepancy_ratio: float
 
 
+class Trade(BaseModel):
+    id: str
+    userA: str
+    cardA: Card
+    userB: Optional[str] = None
+    cardB: Optional[Card] = None
+    confirmations: Dict[str, bool] = {}
+    status: str = "pending"
+
+
+cardDB = {}
+trades: Dict[str, Trade] = {}
+
+
+class CreateTradeRequest(BaseModel):
+    userA: str
+    cardA: Card
+
+
+class JoinTradeRequest(BaseModel):
+    userB: str
+
+
+class ConfirmRequest(BaseModel):
+    user_id: str
+
+
+class OfferRequest(BaseModel):
+    user_id: str
+    cardB: Card
+
+
+@app.post("/trades/{trade_id}/offer", response_model=Trade)
+def offer_card(trade_id: str, req: OfferRequest):
+    trade = trades.get(trade_id)
+    if not trade:
+        raise HTTPException(404, "Trade not found")
+    if req.user_id == trade.userB:
+        trade.cardB = req.cardB
+        trade.status = "awaiting_confirmations"
+    else:
+        raise HTTPException(403, "Only userB can offer card in this step")
+    trades[trade_id] = trade
+    return trade
+
+
+@app.post("/trades", response_model=Trade)
+def create_trade(req: CreateTradeRequest):
+    trade_id = req.cardA.id
+    if trade_id in trades:
+        raise HTTPException(400, "Trade already exists for this card")
+
+    trade = Trade(
+        id=trade_id,
+        userA=req.userA,
+        cardA=req.cardA,
+        confirmations={req.userA: False},
+    )
+    trades[trade_id] = trade
+    return trade
+
+
+@app.post("/trades/{trade_id}/join", response_model=Trade)
+def join_trade(trade_id: str, req: JoinTradeRequest):
+    trade = trades.get(trade_id)
+    if not trade:
+        raise HTTPException(404, "Trade not found")
+    if trade.userB:
+        raise HTTPException(400, "Trade already joined")
+
+    trade.userB = req.userB
+    trade.confirmations[req.userB] = False
+    trade.status = "joined"
+    trades[trade_id] = trade
+    return trade
+
+
+@app.post("/trades/{trade_id}/confirm", response_model=Trade)
+def confirm_trade(trade_id: str, req: ConfirmRequest):
+    trade = trades.get(trade_id)
+    if not trade:
+        raise HTTPException(404, "Trade not found")
+    if req.user_id not in trade.confirmations:
+        raise HTTPException(403, "Not a participant")
+
+    trade.confirmations[req.user_id] = True
+
+    if all(trade.confirmations.values()) and trade.cardB:
+        trade.status = "completed"
+        # ⚡ Here: update your DB to swap trade.cardA <-> trade.cardB
+    trades[trade_id] = trade
+    return trade
+
+
+@app.get("/trades/{trade_id}", response_model=Trade)
+def get_trade(trade_id: str):
+    trade = trades.get(trade_id)
+    if not trade:
+        raise HTTPException(404, "Trade not found")
+    return trade
 
 
 @app.get("/get-10-cards")
@@ -195,6 +294,7 @@ def get10Cards():
             realWorldtotalValue += marketValue
             pulled_cards.append(
                 {
+                    "id": "",
                     "card_title": f"{card.get("rarity", "Unknown")}{prefix} {name.capitalize()}{suffix}",
                     "name": name,
                     "base_experience": base_exp,
@@ -202,8 +302,8 @@ def get10Cards():
                     "rarity": card.get("rarity", "Unknown"),
                     "subtypes": subtypes,
                     "value": value,
-                    "real-market-value": marketValue,
-                    "discrepancy-ratio": round(marketValue / value, 2),
+                    "real_market_value": marketValue,
+                    "discrepancy_ratio": round(marketValue / value, 2),
                 }
             )
 
@@ -221,13 +321,17 @@ def get10Cards():
     }
 
 
-
 @app.post("/postCard")
 def postCardForSale(card: Card):
     cardDB[card.id] = card.dict()
     return {
         "qr_code": f"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={card.id}"
     }
+
+
+@app.get("/reveal-db")
+def seeAllCards():
+    return cardDB
 
 
 @app.get("/trade-cards/{card_id}")
@@ -237,7 +341,126 @@ def getCardForSale(card_id: str):
     copyCard = cardDB.pop(card_id)
     return copyCard
 
-                          
+
+@app.get("/test-10-cards")
+def getTestPack():
+    return {
+        "cards": [
+            {
+                "card_title": "Rare Cacturne",
+                "name": "cacturne",
+                "base_experience": 166,
+                "card_image": "https://images.pokemontcg.io/ex14/15_hires.png",
+                "rarity": "Rare",
+                "subtypes": ["Stage 1"],
+                "value": 1.3,
+                "real_market_value": 1.33,
+                "discrepancy_ratio": 1.02,
+            },
+            {
+                "card_title": "Uncommon Dragonair",
+                "name": "dragonair",
+                "base_experience": 147,
+                "card_image": "https://images.pokemontcg.io/sm11/149_hires.png",
+                "rarity": "Uncommon",
+                "subtypes": ["Stage 1"],
+                "value": 0.8,
+                "real_market_value": 0.23,
+                "discrepancy_ratio": 0.29,
+            },
+            {
+                "card_title": "Rare Holo EX Kyurem EX",
+                "name": "kyurem",
+                "base_experience": 297,
+                "card_image": "https://images.pokemontcg.io/bw8/95_hires.png",
+                "rarity": "Rare Holo EX",
+                "subtypes": ["Basic", "EX"],
+                "value": 6.4,
+                "real_market_value": 4.51,
+                "discrepancy_ratio": 0.7,
+            },
+            {
+                "card_title": "Rare Rainbow Dedenne GX",
+                "name": "dedenne",
+                "base_experience": 151,
+                "card_image": "https://images.pokemontcg.io/sm10/219_hires.png",
+                "rarity": "Rare Rainbow",
+                "subtypes": ["Basic", "GX"],
+                "value": 25.2,
+                "real_market_value": 30.28,
+                "discrepancy_ratio": 1.2,
+            },
+            {
+                "card_title": "Common Bellsprout",
+                "name": "bellsprout",
+                "base_experience": 60,
+                "card_image": "https://images.pokemontcg.io/sm2/1_hires.png",
+                "rarity": "Common",
+                "subtypes": ["Basic"],
+                "value": 0.5,
+                "real_market_value": 0.13,
+                "discrepancy_ratio": 0.26,
+            },
+            {
+                "card_title": "Common Quaxly",
+                "name": "quaxly",
+                "base_experience": 62,
+                "card_image": "https://images.pokemontcg.io/sv8/50_hires.png",
+                "rarity": "Common",
+                "subtypes": ["Basic"],
+                "value": 0.5,
+                "real_market_value": 0.05,
+                "discrepancy_ratio": 0.1,
+            },
+            {
+                "card_title": "Illustration Rare Gothita",
+                "name": "gothita",
+                "base_experience": 58,
+                "card_image": "https://images.pokemontcg.io/rsv10pt5/124_hires.png",
+                "rarity": "Illustration Rare",
+                "subtypes": ["Basic"],
+                "value": 6.93,
+                "real_market_value": 12.16,
+                "discrepancy_ratio": 1.75,
+            },
+            {
+                "card_title": "Unknown Munna",
+                "name": "munna",
+                "base_experience": 58,
+                "card_image": "https://images.pokemontcg.io/mcd11/7_hires.png",
+                "rarity": "Unknown",
+                "subtypes": ["Basic"],
+                "value": 0.39,
+                "real_market_value": 3.35,
+                "discrepancy_ratio": 8.59,
+            },
+            {
+                "card_title": "Common Toedscool",
+                "name": "toedscool",
+                "base_experience": 67,
+                "card_image": "https://images.pokemontcg.io/sv9/88_hires.png",
+                "rarity": "Common",
+                "subtypes": ["Basic"],
+                "value": 0.5,
+                "real_market_value": 0.15,
+                "discrepancy_ratio": 0.3,
+            },
+            {
+                "card_title": "Common Trubbish",
+                "name": "trubbish",
+                "base_experience": 66,
+                "card_image": "https://images.pokemontcg.io/sm2/50_hires.png",
+                "rarity": "Common",
+                "subtypes": ["Basic"],
+                "value": 0.5,
+                "real_market_value": 0.21,
+                "discrepancy_ratio": 0.42,
+            },
+        ],
+        "total_value": 43.02,
+        "realworld_total_value": 52.4,
+    }
+
 
 app.add_middleware(
     CORSMiddleware,
