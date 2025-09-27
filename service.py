@@ -54,5 +54,11 @@ def open_pack(set_id, base_folder="sets", use_subfolder=True):
     )[0]
     rare_card = random.choice(cards_by_rarity[rare_rarity])
     pack.append(upgrade_card(rare_card, set_config, cards_by_rarity))
-
-    return pack
+    card_response = {}
+    card_response["cards"] = pack
+    total = 0
+    for card in pack:
+        total += card["value"]
+    card_response["total_value"] = total
+    card_response["realworld_total_value"] = total
+    return card_response
