@@ -1,6 +1,7 @@
 import json
 import random
 import os
+import uuid
 
 
 def load_set(set_id, base_folder="sets", use_subfolder=True):
@@ -58,6 +59,7 @@ def open_pack(set_id, base_folder="sets", use_subfolder=True):
     card_response["cards"] = pack
     total = 0
     for card in pack:
+        card["id"] = str(uuid.uuid4())
         total += card["value"]
     card_response["total_value"] = total
     card_response["realworld_total_value"] = total
