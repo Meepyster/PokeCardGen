@@ -1,0 +1,47 @@
+{
+  "set_id": "sv8pt5",
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Double Rare",
+    "ACE SPEC Rare",
+    "Special Illustration Rare",
+    "Hyper Rare"
+  ],
+  "variance":{
+    "low" : 0.80,
+    "high": 1.20
+  },
+  "pack_structure": {
+    "Common": 6,
+    "Uncommon": 3,
+    "RareSlot": 1
+  },
+  "rare_slot_weights": {
+    "Rare": 70,
+    "Double Rare": 17,
+    "ACE SPEC Rare": 11.5,
+    "Special Illustration Rare": 1,
+    "Hyper Rare": 0.5
+  },
+  "upgrade_table": {
+    "Common": {
+      "Uncommon": 0.1,
+      "Rare": 0.05,
+      "Special Illustration Rare": 0.0001,
+      "Hyper Rare": 0.00001
+    },
+    "Uncommon": {
+      "Rare": 0.01,
+      "Double Rare": 0.005,
+      "Special Illustration Rare": 0.0005,
+      "Hyper Rare": 0.0001
+    },
+    "Rare": {
+      "Double Rare": 0.1,
+      "Special Illustration Rare": 0.01,
+      "Hyper Rare": 0.005
+    }
+  }
+}

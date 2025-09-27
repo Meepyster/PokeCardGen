@@ -10,6 +10,15 @@ from pydantic import BaseModel, Field
 from typing import Annotated
 from typing import List, Dict, Optional
 import uuid
+import service
+from models import (
+    Trade,
+    Card,
+    CreateTradeRequest,
+    JoinTradeRequest,
+    OfferRequest,
+    ConfirmRequest,
+)
 
 app = FastAPI(
     title="PokeSwift API",
@@ -32,52 +41,8 @@ load_dotenv()
 api_key = os.getenv("POKETCG_API_KEY")
 headers = {"x-api-key": api_key}
 
-
-class Card(BaseModel):
-    id: str
-    card_title: str
-    name: str
-    base_experience: int
-    card_image: str
-    rarity: str
-    subtypes: List[str]
-    value: float
-    real_market_value: float
-    discrepancy_ratio: float
-
-
-class Trade(BaseModel):
-    id: str
-    userA: str
-    cardA: Card
-    userB: Optional[str] = None
-    cardB: Optional[Card] = None
-    confirmations: Dict[str, bool] = {}
-    status: str = "pending"
-    # Maybe you swap cards here???
-    # -TODO-
-
-
 cardDB = {}
 trades: Dict[str, Trade] = {}
-
-
-class CreateTradeRequest(BaseModel):
-    userA: str
-    cardA: Card
-
-
-class JoinTradeRequest(BaseModel):
-    userB: str
-
-
-class ConfirmRequest(BaseModel):
-    user_id: str
-
-
-class OfferRequest(BaseModel):
-    user_id: str
-    cardB: Card
 
 
 @app.get("/trades/get-all")
@@ -655,6 +620,12 @@ def getTestPack():
         "total_value": 43.02,
         "realworld_total_value": 52.4,
     }
+
+
+@app.get("/get-set/{set_id}")
+def get10Set(set_id: str):
+    cards = service.open_pack(set_id)
+    return cards
 
 
 app.add_middleware(

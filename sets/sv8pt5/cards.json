@@ -1,0 +1,2640 @@
+[
+  {
+    "id": "sv8pt5-1",
+    "card_title": "Exeggcute",
+    "name": "Exeggcute",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/1_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.27,
+    "real_market_value": 0.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-2",
+    "card_title": "Exeggutor",
+    "name": "Exeggutor",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/2_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.32,
+    "real_market_value": 0.32,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-3",
+    "card_title": "Pinsir",
+    "name": "Pinsir",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/3_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-4",
+    "card_title": "Budew",
+    "name": "Budew",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/4_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.19,
+    "real_market_value": 0.19,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-5",
+    "card_title": "Leafeon",
+    "name": "Leafeon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/5_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.85,
+    "real_market_value": 0.85,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-6",
+    "card_title": "Leafeon ex",
+    "name": "Leafeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/6_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.11,
+    "real_market_value": 1.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-7",
+    "card_title": "Cottonee",
+    "name": "Cottonee",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/7_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-8",
+    "card_title": "Whimsicott",
+    "name": "Whimsicott",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/8_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.91,
+    "real_market_value": 0.91,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-9",
+    "card_title": "Applin",
+    "name": "Applin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/9_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.15,
+    "real_market_value": 0.15,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-10",
+    "card_title": "Dipplin",
+    "name": "Dipplin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/10_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.4,
+    "real_market_value": 0.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-11",
+    "card_title": "Hydrapple ex",
+    "name": "Hydrapple ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/11_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "value": 2.15,
+    "real_market_value": 2.15,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-12",
+    "card_title": "Teal Mask Ogerpon ex",
+    "name": "Teal Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/12_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.52,
+    "real_market_value": 2.52,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-13",
+    "card_title": "Flareon",
+    "name": "Flareon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/13_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.63,
+    "real_market_value": 0.63,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-14",
+    "card_title": "Flareon ex",
+    "name": "Flareon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/14_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.67,
+    "real_market_value": 2.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-15",
+    "card_title": "Litleo",
+    "name": "Litleo",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/15_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.5,
+    "real_market_value": 0.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-16",
+    "card_title": "Pyroar",
+    "name": "Pyroar",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/16_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-17",
+    "card_title": "Hearthflame Mask Ogerpon ex",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/17_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 3.58,
+    "real_market_value": 3.58,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-18",
+    "card_title": "Slowpoke",
+    "name": "Slowpoke",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/18_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-19",
+    "card_title": "Slowking",
+    "name": "Slowking",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/19_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-20",
+    "card_title": "Goldeen",
+    "name": "Goldeen",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/20_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-21",
+    "card_title": "Seaking",
+    "name": "Seaking",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/21_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-22",
+    "card_title": "Vaporeon",
+    "name": "Vaporeon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/22_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.82,
+    "real_market_value": 0.82,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-23",
+    "card_title": "Vaporeon ex",
+    "name": "Vaporeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/23_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.31,
+    "real_market_value": 1.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-24",
+    "card_title": "Suicune",
+    "name": "Suicune",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/24_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.25,
+    "real_market_value": 0.25,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-25",
+    "card_title": "Glaceon",
+    "name": "Glaceon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/25_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.64,
+    "real_market_value": 0.64,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-26",
+    "card_title": "Glaceon ex",
+    "name": "Glaceon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/26_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.99,
+    "real_market_value": 2.99,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-27",
+    "card_title": "Wellspring Mask Ogerpon ex",
+    "name": "Wellspring Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/27_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.08,
+    "real_market_value": 1.08,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-28",
+    "card_title": "Pikachu ex",
+    "name": "Pikachu ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/28_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.56,
+    "real_market_value": 2.56,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-29",
+    "card_title": "Jolteon",
+    "name": "Jolteon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/29_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.71,
+    "real_market_value": 0.71,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-30",
+    "card_title": "Jolteon ex",
+    "name": "Jolteon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/30_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.48,
+    "real_market_value": 1.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-31",
+    "card_title": "Iron Hands ex",
+    "name": "Iron Hands ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/31_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 1.17,
+    "real_market_value": 1.17,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-32",
+    "card_title": "Iron Thorns ex",
+    "name": "Iron Thorns ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/32_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 2.89,
+    "real_market_value": 2.89,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-33",
+    "card_title": "Espeon",
+    "name": "Espeon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/33_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.55,
+    "real_market_value": 0.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-34",
+    "card_title": "Espeon ex",
+    "name": "Espeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/34_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.68,
+    "real_market_value": 2.68,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-35",
+    "card_title": "Duskull",
+    "name": "Duskull",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/35_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.2,
+    "real_market_value": 0.2,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-36",
+    "card_title": "Dusclops",
+    "name": "Dusclops",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/36_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-37",
+    "card_title": "Dusknoir",
+    "name": "Dusknoir",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/37_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.55,
+    "real_market_value": 0.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-38",
+    "card_title": "Spritzee",
+    "name": "Spritzee",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/38_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.29,
+    "real_market_value": 0.29,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-39",
+    "card_title": "Aromatisse",
+    "name": "Aromatisse",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/39_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.41,
+    "real_market_value": 0.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-40",
+    "card_title": "Sylveon",
+    "name": "Sylveon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/40_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.74,
+    "real_market_value": 0.74,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-41",
+    "card_title": "Sylveon ex",
+    "name": "Sylveon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/41_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.19,
+    "real_market_value": 1.19,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-42",
+    "card_title": "Scream Tail",
+    "name": "Scream Tail",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/42_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "value": 0.4,
+    "real_market_value": 0.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-43",
+    "card_title": "Flutter Mane",
+    "name": "Flutter Mane",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/43_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "value": 0.55,
+    "real_market_value": 0.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-44",
+    "card_title": "Munkidori",
+    "name": "Munkidori",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/44_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.55,
+    "real_market_value": 0.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-45",
+    "card_title": "Fezandipiti",
+    "name": "Fezandipiti",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/45_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.99,
+    "real_market_value": 0.99,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-46",
+    "card_title": "Iron Boulder",
+    "name": "Iron Boulder",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/46_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "value": 0.71,
+    "real_market_value": 0.71,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-47",
+    "card_title": "Larvitar",
+    "name": "Larvitar",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/47_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-48",
+    "card_title": "Pupitar",
+    "name": "Pupitar",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/48_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-49",
+    "card_title": "Groudon",
+    "name": "Groudon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/49_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.51,
+    "real_market_value": 0.51,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-50",
+    "card_title": "Riolu",
+    "name": "Riolu",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/50_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-51",
+    "card_title": "Lucario ex",
+    "name": "Lucario ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/51_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "value": 2.71,
+    "real_market_value": 2.71,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-52",
+    "card_title": "Hippopotas",
+    "name": "Hippopotas",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/52_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-53",
+    "card_title": "Hippowdon",
+    "name": "Hippowdon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/53_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.27,
+    "real_market_value": 0.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-54",
+    "card_title": "Bloodmoon Ursaluna",
+    "name": "Bloodmoon Ursaluna",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/54_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.73,
+    "real_market_value": 0.73,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-55",
+    "card_title": "Great Tusk",
+    "name": "Great Tusk",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/55_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-56",
+    "card_title": "Sandy Shocks ex",
+    "name": "Sandy Shocks ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/56_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Ancient"
+    ],
+    "value": 3.61,
+    "real_market_value": 3.61,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-57",
+    "card_title": "Okidogi",
+    "name": "Okidogi",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/57_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.55,
+    "real_market_value": 0.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-58",
+    "card_title": "Cornerstone Mask Ogerpon ex",
+    "name": "Cornerstone Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/58_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.76,
+    "real_market_value": 2.76,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-59",
+    "card_title": "Umbreon",
+    "name": "Umbreon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/59_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.76,
+    "real_market_value": 0.76,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-60",
+    "card_title": "Umbreon ex",
+    "name": "Umbreon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/60_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 3.01,
+    "real_market_value": 3.01,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-61",
+    "card_title": "Sneasel",
+    "name": "Sneasel",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/61_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-62",
+    "card_title": "Houndour",
+    "name": "Houndour",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/62_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-63",
+    "card_title": "Houndoom",
+    "name": "Houndoom",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/63_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.42,
+    "real_market_value": 0.42,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-64",
+    "card_title": "Tyranitar ex",
+    "name": "Tyranitar ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/64_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "value": 2.36,
+    "real_market_value": 2.36,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-65",
+    "card_title": "Roaring Moon",
+    "name": "Roaring Moon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/65_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "value": 0.68,
+    "real_market_value": 0.68,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-66",
+    "card_title": "Bronzor",
+    "name": "Bronzor",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/66_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.24,
+    "real_market_value": 0.24,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-67",
+    "card_title": "Bronzong",
+    "name": "Bronzong",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/67_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.3,
+    "real_market_value": 0.3,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-68",
+    "card_title": "Heatran",
+    "name": "Heatran",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/68_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.46,
+    "real_market_value": 0.46,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-69",
+    "card_title": "Duraludon",
+    "name": "Duraludon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/69_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-70",
+    "card_title": "Archaludon",
+    "name": "Archaludon",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/70_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.64,
+    "real_market_value": 0.64,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-71",
+    "card_title": "Dreepy",
+    "name": "Dreepy",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/71_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-72",
+    "card_title": "Drakloak",
+    "name": "Drakloak",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/72_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.27,
+    "real_market_value": 0.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-73",
+    "card_title": "Dragapult ex",
+    "name": "Dragapult ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/73_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 2",
+      "Tera",
+      "ex"
+    ],
+    "value": 2.52,
+    "real_market_value": 2.52,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-74",
+    "card_title": "Eevee",
+    "name": "Eevee",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/74_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.41,
+    "real_market_value": 0.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-75",
+    "card_title": "Eevee ex",
+    "name": "Eevee ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/75_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 1.62,
+    "real_market_value": 1.62,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-76",
+    "card_title": "Snorlax ex",
+    "name": "Snorlax ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/76_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "value": 1.61,
+    "real_market_value": 1.61,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-77",
+    "card_title": "Hoothoot",
+    "name": "Hoothoot",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/77_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.48,
+    "real_market_value": 0.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-78",
+    "card_title": "Noctowl",
+    "name": "Noctowl",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/78_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.97,
+    "real_market_value": 0.97,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-79",
+    "card_title": "Dunsparce",
+    "name": "Dunsparce",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/79_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.15,
+    "real_market_value": 0.15,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-80",
+    "card_title": "Dudunsparce",
+    "name": "Dudunsparce",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/80_hires.png",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.79,
+    "real_market_value": 0.79,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-81",
+    "card_title": "Miltank",
+    "name": "Miltank",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/81_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.23,
+    "real_market_value": 0.23,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-82",
+    "card_title": "Lugia ex",
+    "name": "Lugia ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/82_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "value": 2.02,
+    "real_market_value": 2.02,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-83",
+    "card_title": "Buneary",
+    "name": "Buneary",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/83_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-84",
+    "card_title": "Lopunny",
+    "name": "Lopunny",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/84_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-85",
+    "card_title": "Fan Rotom",
+    "name": "Fan Rotom",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/85_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.48,
+    "real_market_value": 0.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-86",
+    "card_title": "Regigigas",
+    "name": "Regigigas",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/86_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.32,
+    "real_market_value": 0.32,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-87",
+    "card_title": "Shaymin",
+    "name": "Shaymin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/87_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-88",
+    "card_title": "Furfrou",
+    "name": "Furfrou",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/88_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.11,
+    "real_market_value": 0.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-89",
+    "card_title": "Hawlucha",
+    "name": "Hawlucha",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/89_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.36,
+    "real_market_value": 0.36,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-90",
+    "card_title": "Noibat",
+    "name": "Noibat",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/90_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.29,
+    "real_market_value": 0.29,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-91",
+    "card_title": "Noivern ex",
+    "name": "Noivern ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/91_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "value": 2.04,
+    "real_market_value": 2.04,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-92",
+    "card_title": "Terapagos ex",
+    "name": "Terapagos ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/92_hires.png",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "value": 2.83,
+    "real_market_value": 2.83,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-93",
+    "card_title": "Amarys",
+    "name": "Amarys",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/93_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.24,
+    "real_market_value": 0.24,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-94",
+    "card_title": "Area Zero Underdepths",
+    "name": "Area Zero Underdepths",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/94_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.4,
+    "real_market_value": 0.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-95",
+    "card_title": "Binding Mochi",
+    "name": "Binding Mochi",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/95_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-96",
+    "card_title": "Black Belt's Training",
+    "name": "Black Belt's Training",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/96_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-97",
+    "card_title": "Black Belt's Training",
+    "name": "Black Belt's Training",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/97_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.5,
+    "real_market_value": 0.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-98",
+    "card_title": "Black Belt's Training",
+    "name": "Black Belt's Training",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/98_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-99",
+    "card_title": "Black Belt's Training",
+    "name": "Black Belt's Training",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/99_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.39,
+    "real_market_value": 0.39,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-100",
+    "card_title": "Briar",
+    "name": "Briar",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/100_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-101",
+    "card_title": "Buddy-Buddy Poffin",
+    "name": "Buddy-Buddy Poffin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/101_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.45,
+    "real_market_value": 0.45,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-102",
+    "card_title": "Bug Catching Set",
+    "name": "Bug Catching Set",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/102_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.11,
+    "real_market_value": 0.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-103",
+    "card_title": "Carmine",
+    "name": "Carmine",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/103_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.45,
+    "real_market_value": 0.45,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-104",
+    "card_title": "Ciphermaniac's Codebreaking",
+    "name": "Ciphermaniac's Codebreaking",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/104_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
+    "value": 0.48,
+    "real_market_value": 0.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-105",
+    "card_title": "Crispin",
+    "name": "Crispin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/105_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.36,
+    "real_market_value": 0.36,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-106",
+    "card_title": "Earthen Vessel",
+    "name": "Earthen Vessel",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/106_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item",
+      "Ancient"
+    ],
+    "value": 0.19,
+    "real_market_value": 0.19,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-107",
+    "card_title": "Explorer's Guidance",
+    "name": "Explorer's Guidance",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/107_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
+    "value": 0.24,
+    "real_market_value": 0.24,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-108",
+    "card_title": "Festival Grounds",
+    "name": "Festival Grounds",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/108_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.36,
+    "real_market_value": 0.36,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-109",
+    "card_title": "Friends in Paldea",
+    "name": "Friends in Paldea",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/109_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.13,
+    "real_market_value": 0.13,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-110",
+    "card_title": "Glass Trumpet",
+    "name": "Glass Trumpet",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/110_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-111",
+    "card_title": "Haban Berry",
+    "name": "Haban Berry",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/111_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "value": 0.17,
+    "real_market_value": 0.17,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-112",
+    "card_title": "Janine's Secret Art",
+    "name": "Janine's Secret Art",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/112_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-113",
+    "card_title": "Kieran",
+    "name": "Kieran",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/113_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-114",
+    "card_title": "Lacey",
+    "name": "Lacey",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/114_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-115",
+    "card_title": "Larry's Skill",
+    "name": "Larry's Skill",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/115_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.28,
+    "real_market_value": 0.28,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-116",
+    "card_title": "Max Rod",
+    "name": "Max Rod",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/116_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "value": 1.0,
+    "real_market_value": 1.0,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-117",
+    "card_title": "Maximum Belt",
+    "name": "Maximum Belt",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/117_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "value": 1.1,
+    "real_market_value": 1.1,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-118",
+    "card_title": "Ogre's Mask",
+    "name": "Ogre's Mask",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/118_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-119",
+    "card_title": "Prime Catcher",
+    "name": "Prime Catcher",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/119_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "value": 1.0,
+    "real_market_value": 1.0,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-120",
+    "card_title": "Professor Sada's Vitality",
+    "name": "Professor Sada's Vitality",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/120_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
+    "value": 0.33,
+    "real_market_value": 0.33,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-121",
+    "card_title": "Professor Turo's Scenario",
+    "name": "Professor Turo's Scenario",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/121_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-122",
+    "card_title": "Professor's Research",
+    "name": "Professor's Research",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/122_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.32,
+    "real_market_value": 0.32,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-123",
+    "card_title": "Professor's Research",
+    "name": "Professor's Research",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/123_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-124",
+    "card_title": "Professor's Research",
+    "name": "Professor's Research",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/124_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-125",
+    "card_title": "Professor's Research",
+    "name": "Professor's Research",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/125_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-126",
+    "card_title": "Rescue Board",
+    "name": "Rescue Board",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/126_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-127",
+    "card_title": "Roto-Stick",
+    "name": "Roto-Stick",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/127_hires.png",
+    "rarity": "Common",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.38,
+    "real_market_value": 0.38,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-128",
+    "card_title": "Scoop Up Cyclone",
+    "name": "Scoop Up Cyclone",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/128_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "value": 1.11,
+    "real_market_value": 1.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-129",
+    "card_title": "Sparkling Crystal",
+    "name": "Sparkling Crystal",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/129_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Pokémon Tool",
+      "ACE SPEC"
+    ],
+    "value": 1.11,
+    "real_market_value": 1.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-130",
+    "card_title": "Techno Radar",
+    "name": "Techno Radar",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/130_hires.png",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item",
+      "Future"
+    ],
+    "value": 0.24,
+    "real_market_value": 0.24,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-131",
+    "card_title": "Treasure Tracker",
+    "name": "Treasure Tracker",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/131_hires.png",
+    "rarity": "ACE SPEC Rare",
+    "subtypes": [
+      "Item",
+      "ACE SPEC"
+    ],
+    "value": 0.9,
+    "real_market_value": 0.9,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-132",
+    "card_title": "Amarys",
+    "name": "Amarys",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/132_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.5,
+    "real_market_value": 1.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-133",
+    "card_title": "Atticus",
+    "name": "Atticus",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/133_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.6,
+    "real_market_value": 1.6,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-134",
+    "card_title": "Atticus",
+    "name": "Atticus",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/134_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.4,
+    "real_market_value": 1.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-135",
+    "card_title": "Brassius",
+    "name": "Brassius",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/135_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.6,
+    "real_market_value": 1.6,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-136",
+    "card_title": "Eri",
+    "name": "Eri",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/136_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.7,
+    "real_market_value": 1.7,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-137",
+    "card_title": "Friends in Paldea",
+    "name": "Friends in Paldea",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/137_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.4,
+    "real_market_value": 1.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-138",
+    "card_title": "Giacomo",
+    "name": "Giacomo",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/138_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.5,
+    "real_market_value": 1.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-139",
+    "card_title": "Larry's Skill",
+    "name": "Larry's Skill",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/139_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.6,
+    "real_market_value": 1.6,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-140",
+    "card_title": "Mela",
+    "name": "Mela",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/140_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.7,
+    "real_market_value": 1.7,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-141",
+    "card_title": "Ortega",
+    "name": "Ortega",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/141_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.5,
+    "real_market_value": 1.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-142",
+    "card_title": "Raifort",
+    "name": "Raifort",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/142_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.8,
+    "real_market_value": 1.8,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-143",
+    "card_title": "Tyme",
+    "name": "Tyme",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/143_hires.png",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 1.5,
+    "real_market_value": 1.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-144",
+    "card_title": "Leafeon ex",
+    "name": "Leafeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/144_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 272.0,
+    "real_market_value": 272.0,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-145",
+    "card_title": "Teal Mask Ogerpon ex",
+    "name": "Teal Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/145_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 45.0,
+    "real_market_value": 45.0,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-146",
+    "card_title": "Flareon ex",
+    "name": "Flareon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/146_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 168.62,
+    "real_market_value": 168.62,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-147",
+    "card_title": "Ceruledge ex",
+    "name": "Ceruledge ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/147_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 101.2,
+    "real_market_value": 101.2,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-148",
+    "card_title": "Hearthflame Mask Ogerpon ex",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/148_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 45.67,
+    "real_market_value": 45.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-149",
+    "card_title": "Vaporeon ex",
+    "name": "Vaporeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/149_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 195.89,
+    "real_market_value": 195.89,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-150",
+    "card_title": "Glaceon ex",
+    "name": "Glaceon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/150_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 178.34,
+    "real_market_value": 178.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-151",
+    "card_title": "Palafin ex",
+    "name": "Palafin ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/151_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "value": 58.76,
+    "real_market_value": 58.76,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-152",
+    "card_title": "Wellspring Mask Ogerpon ex",
+    "name": "Wellspring Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/152_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 25.67,
+    "real_market_value": 25.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-153",
+    "card_title": "Jolteon ex",
+    "name": "Jolteon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/153_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 153.76,
+    "real_market_value": 153.76,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-154",
+    "card_title": "Iron Hands ex",
+    "name": "Iron Hands ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/154_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 65.41,
+    "real_market_value": 65.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-155",
+    "card_title": "Espeon ex",
+    "name": "Espeon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/155_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 210.6,
+    "real_market_value": 210.6,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-156",
+    "card_title": "Sylveon ex",
+    "name": "Sylveon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/156_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 357.27,
+    "real_market_value": 357.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-157",
+    "card_title": "Iron Valiant ex",
+    "name": "Iron Valiant ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/157_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 58.78,
+    "real_market_value": 58.78,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-158",
+    "card_title": "Iron Crown ex",
+    "name": "Iron Crown ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/158_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 46.22,
+    "real_market_value": 46.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-159",
+    "card_title": "Sandy Shocks ex",
+    "name": "Sandy Shocks ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/159_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Ancient"
+    ],
+    "value": 38.93,
+    "real_market_value": 38.93,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-160",
+    "card_title": "Cornerstone Mask Ogerpon ex",
+    "name": "Cornerstone Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/160_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 25.67,
+    "real_market_value": 25.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-161",
+    "card_title": "Umbreon ex",
+    "name": "Umbreon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/161_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "Tera",
+      "ex"
+    ],
+    "value": 1022.67,
+    "real_market_value": 1022.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-162",
+    "card_title": "Roaring Moon ex",
+    "name": "Roaring Moon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/162_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Ancient"
+    ],
+    "value": 271.41,
+    "real_market_value": 271.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-163",
+    "card_title": "Pecharunt ex",
+    "name": "Pecharunt ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/163_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "value": 30.57,
+    "real_market_value": 30.57,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-164",
+    "card_title": "Gholdengo ex",
+    "name": "Gholdengo ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/164_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "value": 69.94,
+    "real_market_value": 69.94,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-165",
+    "card_title": "Dragapult ex",
+    "name": "Dragapult ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/165_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 2",
+      "Tera",
+      "ex"
+    ],
+    "value": 90.25,
+    "real_market_value": 90.25,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-166",
+    "card_title": "Raging Bolt ex",
+    "name": "Raging Bolt ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/166_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Ancient"
+    ],
+    "value": 77.41,
+    "real_market_value": 77.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-167",
+    "card_title": "Eevee ex",
+    "name": "Eevee ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/167_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 126.72,
+    "real_market_value": 126.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-168",
+    "card_title": "Bloodmoon Ursaluna ex",
+    "name": "Bloodmoon Ursaluna ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/168_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "value": 78.35,
+    "real_market_value": 78.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-169",
+    "card_title": "Terapagos ex",
+    "name": "Terapagos ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/169_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 57.61,
+    "real_market_value": 57.61,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-170",
+    "card_title": "Amarys",
+    "name": "Amarys",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/170_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 25.44,
+    "real_market_value": 25.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-171",
+    "card_title": "Crispin",
+    "name": "Crispin",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/171_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 34.61,
+    "real_market_value": 34.61,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-172",
+    "card_title": "Drayton",
+    "name": "Drayton",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/172_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 21.51,
+    "real_market_value": 21.51,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-173",
+    "card_title": "Janine's Secret Art",
+    "name": "Janine's Secret Art",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/173_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 32.53,
+    "real_market_value": 32.53,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-174",
+    "card_title": "Kieran",
+    "name": "Kieran",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/174_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 32.22,
+    "real_market_value": 32.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-175",
+    "card_title": "Lacey",
+    "name": "Lacey",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/175_hires.png",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 25.33,
+    "real_market_value": 25.33,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-176",
+    "card_title": "Iron Leaves ex",
+    "name": "Iron Leaves ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/176_hires.png",
+    "rarity": "Hyper Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Future"
+    ],
+    "value": 491.44,
+    "real_market_value": 491.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-177",
+    "card_title": "Teal Mask Ogerpon ex",
+    "name": "Teal Mask Ogerpon ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/177_hires.png",
+    "rarity": "Hyper Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 301.11,
+    "real_market_value": 301.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-178",
+    "card_title": "Walking Wake ex",
+    "name": "Walking Wake ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/178_hires.png",
+    "rarity": "Hyper Rare",
+    "subtypes": [
+      "Basic",
+      "ex",
+      "Ancient"
+    ],
+    "value": 651.66,
+    "real_market_value": 651.66,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-179",
+    "card_title": "Pikachu ex",
+    "name": "Pikachu ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/179_hires.png",
+    "rarity": "Hyper Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 1067.27,
+    "real_market_value": 1067.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "sv8pt5-180",
+    "card_title": "Terapagos ex",
+    "name": "Terapagos ex",
+    "base_experience": "1000",
+    "card_image": "https://images.pokemontcg.io/sv8pt5/180_hires.png",
+    "rarity": "Hyper Rare",
+    "subtypes": [
+      "Basic",
+      "Tera",
+      "ex"
+    ],
+    "value": 598.45,
+    "real_market_value": 598.45,
+    "discrepancy_ratio": 1.0
+  }
+]
