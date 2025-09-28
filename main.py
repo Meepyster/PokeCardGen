@@ -71,13 +71,13 @@ def update_set(set_id: str, new_count: int):
 
 async def auto_regen():
     while True:
-        await asyncio.sleep(60)
+        await asyncio.sleep(600)
         conn = sqlite3.connect(DB_FILE)
         c = conn.cursor()
         c.execute("SELECT set_id, count, regen_per_minute FROM sets")
         rows = c.fetchall()
         for set_id, count, regen in rows:
-            new_count = count + regen
+            new_count = min(count + regen, 1000)
             c.execute("UPDATE sets SET count = ? WHERE set_id = ?", (new_count, set_id))
         conn.commit()
         conn.close()
