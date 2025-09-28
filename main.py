@@ -43,6 +43,8 @@ headers = {"x-api-key": api_key}
 
 cardDB = {}
 trades: Dict[str, Trade] = {}
+setCount = {}
+setCount["sv8pt5"] = 10
 
 
 @app.get("/trades/get-all")
@@ -625,6 +627,27 @@ def getTestPack():
 @app.get("/get-set/{set_id}")
 def get10Set(set_id: str):
     cards = service.open_pack(set_id)
+    if setCount[set_id] > 0:
+        setCount[set_id] -= 1
+    else:
+        return {
+            "cards": [
+                {
+                    "id": str(uuid.uuid4()),
+                    "card_title": "GET BLASTED",
+                    "name": "YEET YAW",
+                    "base_experience": 66,
+                    "card_image": "https://tenor.com/jSeIZvj1ZV3.gif",
+                    "rarity": "Common",
+                    "subtypes": ["Basic"],
+                    "value": 0.00,
+                    "real_market_value": 0.00,
+                    "discrepancy_ratio": 0.00,
+                }
+            ],
+            "total_value": 0.00,
+            "realworld_total_value": 0.00,
+        }
     return cards
 
 
