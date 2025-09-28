@@ -32,7 +32,7 @@ def upgrade_card(card, set_config, cards_by_rarity):
         if random.random() < chance and cards_by_rarity.get(target_rarity):
             print("\nUPGRADE TO: ", target_rarity, "\n")
             return random.choice(cards_by_rarity[target_rarity])
-    card["card_title"] = card["name"]
+    card["card_title"] = f"{card["rarity"]} {card["name"]}"
     return card
 
 
