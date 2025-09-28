@@ -4,7 +4,7 @@ import os
 from collections import Counter
 
 ## JUST CHANGE THESE VALUES --------------------------------
-N = 100000
+N = 1000000
 set_id = "sv8pt5"
 ## ---------------------------------------------------------
 
@@ -15,6 +15,7 @@ config_file_path = os.path.join(folder, "config.json")
 # Load config.json into a Python dict
 with open(config_file_path, "r") as f:
     config = json.load(f)
+
 
 def weighted_choice(weight_dict):
     """Pick one key from a dict of weights."""
@@ -27,6 +28,7 @@ def weighted_choice(weight_dict):
         upto += w
     return k
 
+
 def apply_upgrade(base_rarity, upgrades):
     """Try upgrading a card based on upgrade_table."""
     if base_rarity not in upgrades:
@@ -35,6 +37,7 @@ def apply_upgrade(base_rarity, upgrades):
         if random.random() < chance:
             return target
     return base_rarity
+
 
 def open_pack(config):
     """Simulate opening one booster pack."""
@@ -59,12 +62,14 @@ def open_pack(config):
 
     return pulls
 
+
 def simulate_packs(n_packs, config):
     counts = Counter()
     for _ in range(n_packs):
         pulls = open_pack(config)
         counts.update(pulls)
     return counts
+
 
 # Run simulation
 results = simulate_packs(N, config)

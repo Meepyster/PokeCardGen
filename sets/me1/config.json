@@ -5,12 +5,13 @@
     "Uncommon",
     "Rare",
     "Double Rare",
-    "ACE SPEC Rare",
+    "Illustration Rare",
+    "Ultra Rare",
     "Special Illustration Rare",
-    "Hyper Rare"
+    "Mega Hyper Rare"
   ],
-  "variance":{
-    "low" : 0.80,
+  "variance": {
+    "low": 0.80,
     "high": 1.20
   },
   "pack_structure": {
@@ -21,27 +22,37 @@
   "rare_slot_weights": {
     "Rare": 70,
     "Double Rare": 17,
-    "ACE SPEC Rare": 11.5,
-    "Special Illustration Rare": 1,
-    "Hyper Rare": 0.5
+    "Illustration Rare": 6.5,
+    "Ultra Rare": 5.1,
+    "Special Illustration Rare": 1.1,
+    "Mega Hyper Rare": 0.3
   },
   "upgrade_table": {
     "Common": {
       "Uncommon": 0.1,
       "Rare": 0.05,
+      "Double Rare": 0.005,
+      "Illustration Rare": 0.0005,
       "Special Illustration Rare": 0.0001,
-      "Hyper Rare": 0.00001
+      "Mega Hyper Rare": 0.00001
     },
     "Uncommon": {
       "Rare": 0.01,
       "Double Rare": 0.005,
+      "Illustration Rare": 0.001,
       "Special Illustration Rare": 0.0005,
-      "Hyper Rare": 0.0001
+      "Mega Hyper Rare": 0.0001
     },
     "Rare": {
       "Double Rare": 0.1,
+      "Illustration Rare": 0.03,
       "Special Illustration Rare": 0.01,
-      "Hyper Rare": 0.005
+      "Mega Hyper Rare": 0.005
+    },
+    "Double Rare": {
+      "Illustration Rare": 0.08,
+      "Special Illustration Rare": 0.05,
+      "Hyper Rare": 0.009
     }
   }
 }
