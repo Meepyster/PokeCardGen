@@ -50,7 +50,7 @@
       "small": "https://images.pokemontcg.io/me1/1.png",
       "large": "https://images.pokemontcg.io/me1/1_hires.png"
     },
-    "price": 0.27
+    "value": 0.36
   },
   {
     "id": "me1-2",
@@ -106,7 +106,7 @@
       "small": "https://images.pokemontcg.io/me1/2.png",
       "large": "https://images.pokemontcg.io/me1/2_hires.png"
     },
-    "price": 0.19
+    "value": 0.21
   },
   {
     "id": "me1-3",
@@ -174,7 +174,7 @@
       "small": "https://images.pokemontcg.io/me1/3.png",
       "large": "https://images.pokemontcg.io/me1/3_hires.png"
     },
-    "price": 1.91
+    "value": 3.22
   },
   {
     "id": "me1-4",
@@ -226,7 +226,7 @@
       "small": "https://images.pokemontcg.io/me1/4.png",
       "large": "https://images.pokemontcg.io/me1/4_hires.png"
     },
-    "price": 0.25
+    "value": 0.2
   },
   {
     "id": "me1-5",
@@ -288,7 +288,7 @@
       "small": "https://images.pokemontcg.io/me1/5.png",
       "large": "https://images.pokemontcg.io/me1/5_hires.png"
     },
-    "price": 0.31
+    "value": 0.24
   },
   {
     "id": "me1-6",
@@ -352,7 +352,7 @@
       "small": "https://images.pokemontcg.io/me1/6.png",
       "large": "https://images.pokemontcg.io/me1/6_hires.png"
     },
-    "price": 0.22
+    "value": 0.3
   },
   {
     "id": "me1-7",
@@ -418,7 +418,7 @@
       "small": "https://images.pokemontcg.io/me1/7.png",
       "large": "https://images.pokemontcg.io/me1/7_hires.png"
     },
-    "price": 0.38
+    "value": 0.45
   },
   {
     "id": "me1-8",
@@ -470,7 +470,7 @@
       "small": "https://images.pokemontcg.io/me1/8.png",
       "large": "https://images.pokemontcg.io/me1/8_hires.png"
     },
-    "price": 0.11
+    "value": 0.28
   },
   {
     "id": "me1-9",
@@ -525,7 +525,7 @@
       "small": "https://images.pokemontcg.io/me1/9.png",
       "large": "https://images.pokemontcg.io/me1/9_hires.png"
     },
-    "price": 0.35
+    "value": 0.35
   },
   {
     "id": "me1-10",
@@ -586,7 +586,7 @@
       "small": "https://images.pokemontcg.io/me1/10.png",
       "large": "https://images.pokemontcg.io/me1/10_hires.png"
     },
-    "price": 0.93
+    "value": 0.81
   },
   {
     "id": "me1-11",
@@ -643,7 +643,7 @@
       "small": "https://images.pokemontcg.io/me1/11.png",
       "large": "https://images.pokemontcg.io/me1/11_hires.png"
     },
-    "price": 0.4
+    "value": 0.28
   },
   {
     "id": "me1-12",
@@ -701,7 +701,7 @@
       "small": "https://images.pokemontcg.io/me1/12.png",
       "large": "https://images.pokemontcg.io/me1/12_hires.png"
     },
-    "price": 0.23
+    "value": 0.27
   },
   {
     "id": "me1-13",
@@ -763,7 +763,7 @@
       "small": "https://images.pokemontcg.io/me1/13.png",
       "large": "https://images.pokemontcg.io/me1/13_hires.png"
     },
-    "price": 0.11
+    "value": 0.16
   },
   {
     "id": "me1-14",
@@ -827,7 +827,7 @@
       "small": "https://images.pokemontcg.io/me1/14.png",
       "large": "https://images.pokemontcg.io/me1/14_hires.png"
     },
-    "price": 0.4
+    "value": 0.16
   },
   {
     "id": "me1-15",
@@ -888,7 +888,7 @@
       "small": "https://images.pokemontcg.io/me1/15.png",
       "large": "https://images.pokemontcg.io/me1/15_hires.png"
     },
-    "price": 0.49
+    "value": 0.38
   },
   {
     "id": "me1-16",
@@ -940,7 +940,7 @@
       "small": "https://images.pokemontcg.io/me1/16.png",
       "large": "https://images.pokemontcg.io/me1/16_hires.png"
     },
-    "price": 0.34
+    "value": 0.18
   },
   {
     "id": "me1-17",
@@ -997,7 +997,7 @@
       "small": "https://images.pokemontcg.io/me1/17.png",
       "large": "https://images.pokemontcg.io/me1/17_hires.png"
     },
-    "price": 0.33
+    "value": 0.41
   },
   {
     "id": "me1-18",
@@ -1048,7 +1048,7 @@
       "small": "https://images.pokemontcg.io/me1/18.png",
       "large": "https://images.pokemontcg.io/me1/18_hires.png"
     },
-    "price": 0.31
+    "value": 0.47
   },
   {
     "id": "me1-19",
@@ -1110,7 +1110,7 @@
       "small": "https://images.pokemontcg.io/me1/19.png",
       "large": "https://images.pokemontcg.io/me1/19_hires.png"
     },
-    "price": 0.44
+    "value": 0.21
   },
   {
     "id": "me1-20",
@@ -1170,7 +1170,7 @@
       "small": "https://images.pokemontcg.io/me1/20.png",
       "large": "https://images.pokemontcg.io/me1/20_hires.png"
     },
-    "price": 0.46
+    "value": 0.21
   },
   {
     "id": "me1-21",
@@ -1234,7 +1234,7 @@
       "small": "https://images.pokemontcg.io/me1/21.png",
       "large": "https://images.pokemontcg.io/me1/21_hires.png"
     },
-    "price": 0.44
+    "value": 0.24
   },
   {
     "id": "me1-22",
@@ -1304,7 +1304,7 @@
       "small": "https://images.pokemontcg.io/me1/22.png",
       "large": "https://images.pokemontcg.io/me1/22_hires.png"
     },
-    "price": 3.4
+    "value": 1.79
   },
   {
     "id": "me1-23",
@@ -1358,7 +1358,7 @@
       "small": "https://images.pokemontcg.io/me1/23.png",
       "large": "https://images.pokemontcg.io/me1/23_hires.png"
     },
-    "price": 0.17
+    "value": 0.15
   },
   {
     "id": "me1-24",
@@ -1418,7 +1418,7 @@
       "small": "https://images.pokemontcg.io/me1/24.png",
       "large": "https://images.pokemontcg.io/me1/24_hires.png"
     },
-    "price": 0.5
+    "value": 0.21
   },
   {
     "id": "me1-25",
@@ -1479,7 +1479,7 @@
       "small": "https://images.pokemontcg.io/me1/25.png",
       "large": "https://images.pokemontcg.io/me1/25_hires.png"
     },
-    "price": 0.39
+    "value": 0.43
   },
   {
     "id": "me1-26",
@@ -1531,7 +1531,7 @@
       "small": "https://images.pokemontcg.io/me1/26.png",
       "large": "https://images.pokemontcg.io/me1/26_hires.png"
     },
-    "price": 0.2
+    "value": 0.18
   },
   {
     "id": "me1-27",
@@ -1584,7 +1584,7 @@
       "small": "https://images.pokemontcg.io/me1/27.png",
       "large": "https://images.pokemontcg.io/me1/27_hires.png"
     },
-    "price": 0.2
+    "value": 0.2
   },
   {
     "id": "me1-28",
@@ -1637,7 +1637,7 @@
       "small": "https://images.pokemontcg.io/me1/28.png",
       "large": "https://images.pokemontcg.io/me1/28_hires.png"
     },
-    "price": 0.75
+    "value": 0.9
   },
   {
     "id": "me1-29",
@@ -1701,7 +1701,7 @@
       "small": "https://images.pokemontcg.io/me1/29.png",
       "large": "https://images.pokemontcg.io/me1/29_hires.png"
     },
-    "price": 0.33
+    "value": 0.5
   },
   {
     "id": "me1-30",
@@ -1766,7 +1766,7 @@
       "small": "https://images.pokemontcg.io/me1/30.png",
       "large": "https://images.pokemontcg.io/me1/30_hires.png"
     },
-    "price": 0.48
+    "value": 0.29
   },
   {
     "id": "me1-31",
@@ -1815,7 +1815,7 @@
       "small": "https://images.pokemontcg.io/me1/31.png",
       "large": "https://images.pokemontcg.io/me1/31_hires.png"
     },
-    "price": 0.31
+    "value": 0.24
   },
   {
     "id": "me1-32",
@@ -1874,7 +1874,7 @@
       "small": "https://images.pokemontcg.io/me1/32.png",
       "large": "https://images.pokemontcg.io/me1/32_hires.png"
     },
-    "price": 0.46
+    "value": 0.48
   },
   {
     "id": "me1-33",
@@ -1937,7 +1937,7 @@
       "small": "https://images.pokemontcg.io/me1/33.png",
       "large": "https://images.pokemontcg.io/me1/33_hires.png"
     },
-    "price": 0.44
+    "value": 0.24
   },
   {
     "id": "me1-34",
@@ -1999,7 +1999,7 @@
       "small": "https://images.pokemontcg.io/me1/34.png",
       "large": "https://images.pokemontcg.io/me1/34_hires.png"
     },
-    "price": 0.51
+    "value": 0.64
   },
   {
     "id": "me1-35",
@@ -2063,7 +2063,7 @@
       "small": "https://images.pokemontcg.io/me1/35.png",
       "large": "https://images.pokemontcg.io/me1/35_hires.png"
     },
-    "price": 0.2
+    "value": 0.35
   },
   {
     "id": "me1-36",
@@ -2133,7 +2133,7 @@
       "small": "https://images.pokemontcg.io/me1/36.png",
       "large": "https://images.pokemontcg.io/me1/36_hires.png"
     },
-    "price": 1.4
+    "value": 3.99
   },
   {
     "id": "me1-37",
@@ -2187,7 +2187,7 @@
       "small": "https://images.pokemontcg.io/me1/37.png",
       "large": "https://images.pokemontcg.io/me1/37_hires.png"
     },
-    "price": 0.49
+    "value": 0.11
   },
   {
     "id": "me1-38",
@@ -2247,7 +2247,7 @@
       "small": "https://images.pokemontcg.io/me1/38.png",
       "large": "https://images.pokemontcg.io/me1/38_hires.png"
     },
-    "price": 0.9
+    "value": 0.63
   },
   {
     "id": "me1-39",
@@ -2299,7 +2299,7 @@
       "small": "https://images.pokemontcg.io/me1/39.png",
       "large": "https://images.pokemontcg.io/me1/39_hires.png"
     },
-    "price": 0.23
+    "value": 0.41
   },
   {
     "id": "me1-40",
@@ -2352,7 +2352,7 @@
       "small": "https://images.pokemontcg.io/me1/40.png",
       "large": "https://images.pokemontcg.io/me1/40_hires.png"
     },
-    "price": 0.34
+    "value": 0.37
   },
   {
     "id": "me1-41",
@@ -2411,7 +2411,7 @@
       "small": "https://images.pokemontcg.io/me1/41.png",
       "large": "https://images.pokemontcg.io/me1/41_hires.png"
     },
-    "price": 0.1
+    "value": 0.27
   },
   {
     "id": "me1-42",
@@ -2463,7 +2463,7 @@
       "small": "https://images.pokemontcg.io/me1/42.png",
       "large": "https://images.pokemontcg.io/me1/42_hires.png"
     },
-    "price": 0.14
+    "value": 0.5
   },
   {
     "id": "me1-43",
@@ -2514,7 +2514,7 @@
       "small": "https://images.pokemontcg.io/me1/43.png",
       "large": "https://images.pokemontcg.io/me1/43_hires.png"
     },
-    "price": 0.46
+    "value": 0.44
   },
   {
     "id": "me1-44",
@@ -2574,7 +2574,7 @@
       "small": "https://images.pokemontcg.io/me1/44.png",
       "large": "https://images.pokemontcg.io/me1/44_hires.png"
     },
-    "price": 0.29
+    "value": 0.35
   },
   {
     "id": "me1-45",
@@ -2626,7 +2626,7 @@
       "small": "https://images.pokemontcg.io/me1/45.png",
       "large": "https://images.pokemontcg.io/me1/45_hires.png"
     },
-    "price": 0.34
+    "value": 0.16
   },
   {
     "id": "me1-46",
@@ -2680,7 +2680,7 @@
       "small": "https://images.pokemontcg.io/me1/46.png",
       "large": "https://images.pokemontcg.io/me1/46_hires.png"
     },
-    "price": 0.35
+    "value": 0.27
   },
   {
     "id": "me1-47",
@@ -2742,7 +2742,7 @@
       "small": "https://images.pokemontcg.io/me1/47.png",
       "large": "https://images.pokemontcg.io/me1/47_hires.png"
     },
-    "price": 0.14
+    "value": 0.28
   },
   {
     "id": "me1-48",
@@ -2792,7 +2792,7 @@
       "small": "https://images.pokemontcg.io/me1/48.png",
       "large": "https://images.pokemontcg.io/me1/48_hires.png"
     },
-    "price": 0.64
+    "value": 0.95
   },
   {
     "id": "me1-49",
@@ -2844,7 +2844,7 @@
       "small": "https://images.pokemontcg.io/me1/49.png",
       "large": "https://images.pokemontcg.io/me1/49_hires.png"
     },
-    "price": 0.18
+    "value": 0.44
   },
   {
     "id": "me1-50",
@@ -2907,7 +2907,7 @@
       "small": "https://images.pokemontcg.io/me1/50.png",
       "large": "https://images.pokemontcg.io/me1/50_hires.png"
     },
-    "price": 2.77
+    "value": 1.09
   },
   {
     "id": "me1-51",
@@ -2956,7 +2956,7 @@
       "small": "https://images.pokemontcg.io/me1/51.png",
       "large": "https://images.pokemontcg.io/me1/51_hires.png"
     },
-    "price": 0.36
+    "value": 0.42
   },
   {
     "id": "me1-52",
@@ -3008,7 +3008,7 @@
       "small": "https://images.pokemontcg.io/me1/52.png",
       "large": "https://images.pokemontcg.io/me1/52_hires.png"
     },
-    "price": 0.47
+    "value": 0.19
   },
   {
     "id": "me1-53",
@@ -3068,7 +3068,7 @@
       "small": "https://images.pokemontcg.io/me1/53.png",
       "large": "https://images.pokemontcg.io/me1/53_hires.png"
     },
-    "price": 0.35
+    "value": 0.32
   },
   {
     "id": "me1-54",
@@ -3126,7 +3126,7 @@
       "small": "https://images.pokemontcg.io/me1/54.png",
       "large": "https://images.pokemontcg.io/me1/54_hires.png"
     },
-    "price": 0.37
+    "value": 0.13
   },
   {
     "id": "me1-55",
@@ -3192,7 +3192,7 @@
       "small": "https://images.pokemontcg.io/me1/55.png",
       "large": "https://images.pokemontcg.io/me1/55_hires.png"
     },
-    "price": 0.21
+    "value": 0.26
   },
   {
     "id": "me1-56",
@@ -3255,7 +3255,7 @@
       "small": "https://images.pokemontcg.io/me1/56.png",
       "large": "https://images.pokemontcg.io/me1/56_hires.png"
     },
-    "price": 0.88
+    "value": 0.51
   },
   {
     "id": "me1-57",
@@ -3311,7 +3311,7 @@
       "small": "https://images.pokemontcg.io/me1/57.png",
       "large": "https://images.pokemontcg.io/me1/57_hires.png"
     },
-    "price": 0.2
+    "value": 0.14
   },
   {
     "id": "me1-58",
@@ -3378,7 +3378,7 @@
       "small": "https://images.pokemontcg.io/me1/58.png",
       "large": "https://images.pokemontcg.io/me1/58_hires.png"
     },
-    "price": 0.28
+    "value": 0.5
   },
   {
     "id": "me1-59",
@@ -3447,7 +3447,7 @@
       "small": "https://images.pokemontcg.io/me1/59.png",
       "large": "https://images.pokemontcg.io/me1/59_hires.png"
     },
-    "price": 0.32
+    "value": 0.44
   },
   {
     "id": "me1-60",
@@ -3518,7 +3518,7 @@
       "small": "https://images.pokemontcg.io/me1/60.png",
       "large": "https://images.pokemontcg.io/me1/60_hires.png"
     },
-    "price": 2.59
+    "value": 2.68
   },
   {
     "id": "me1-61",
@@ -3577,7 +3577,7 @@
       "small": "https://images.pokemontcg.io/me1/61.png",
       "large": "https://images.pokemontcg.io/me1/61_hires.png"
     },
-    "price": 0.26
+    "value": 0.41
   },
   {
     "id": "me1-62",
@@ -3635,7 +3635,7 @@
       "small": "https://images.pokemontcg.io/me1/62.png",
       "large": "https://images.pokemontcg.io/me1/62_hires.png"
     },
-    "price": 0.14
+    "value": 0.33
   },
   {
     "id": "me1-63",
@@ -3701,7 +3701,7 @@
       "small": "https://images.pokemontcg.io/me1/63.png",
       "large": "https://images.pokemontcg.io/me1/63_hires.png"
     },
-    "price": 0.16
+    "value": 0.25
   },
   {
     "id": "me1-64",
@@ -3761,7 +3761,7 @@
       "small": "https://images.pokemontcg.io/me1/64.png",
       "large": "https://images.pokemontcg.io/me1/64_hires.png"
     },
-    "price": 0.73
+    "value": 0.99
   },
   {
     "id": "me1-65",
@@ -3828,7 +3828,7 @@
       "small": "https://images.pokemontcg.io/me1/65.png",
       "large": "https://images.pokemontcg.io/me1/65_hires.png"
     },
-    "price": 0.32
+    "value": 0.26
   },
   {
     "id": "me1-66",
@@ -3897,7 +3897,7 @@
       "small": "https://images.pokemontcg.io/me1/66.png",
       "large": "https://images.pokemontcg.io/me1/66_hires.png"
     },
-    "price": 0.11
+    "value": 0.29
   },
   {
     "id": "me1-67",
@@ -3953,7 +3953,7 @@
       "small": "https://images.pokemontcg.io/me1/67.png",
       "large": "https://images.pokemontcg.io/me1/67_hires.png"
     },
-    "price": 0.3
+    "value": 0.18
   },
   {
     "id": "me1-68",
@@ -4015,7 +4015,7 @@
       "small": "https://images.pokemontcg.io/me1/68.png",
       "large": "https://images.pokemontcg.io/me1/68_hires.png"
     },
-    "price": 0.15
+    "value": 0.36
   },
   {
     "id": "me1-69",
@@ -4077,7 +4077,7 @@
       "small": "https://images.pokemontcg.io/me1/69.png",
       "large": "https://images.pokemontcg.io/me1/69_hires.png"
     },
-    "price": 0.21
+    "value": 0.47
   },
   {
     "id": "me1-70",
@@ -4145,7 +4145,7 @@
       "small": "https://images.pokemontcg.io/me1/70.png",
       "large": "https://images.pokemontcg.io/me1/70_hires.png"
     },
-    "price": 0.19
+    "value": 0.11
   },
   {
     "id": "me1-71",
@@ -4195,7 +4195,7 @@
       "small": "https://images.pokemontcg.io/me1/71.png",
       "large": "https://images.pokemontcg.io/me1/71_hires.png"
     },
-    "price": 0.24
+    "value": 0.24
   },
   {
     "id": "me1-72",
@@ -4258,7 +4258,7 @@
       "small": "https://images.pokemontcg.io/me1/72.png",
       "large": "https://images.pokemontcg.io/me1/72_hires.png"
     },
-    "price": 0.14
+    "value": 0.24
   },
   {
     "id": "me1-73",
@@ -4319,7 +4319,7 @@
       "small": "https://images.pokemontcg.io/me1/73.png",
       "large": "https://images.pokemontcg.io/me1/73_hires.png"
     },
-    "price": 0.82
+    "value": 0.53
   },
   {
     "id": "me1-74",
@@ -4376,7 +4376,7 @@
       "small": "https://images.pokemontcg.io/me1/74.png",
       "large": "https://images.pokemontcg.io/me1/74_hires.png"
     },
-    "price": 0.91
+    "value": 0.5
   },
   {
     "id": "me1-75",
@@ -4425,7 +4425,7 @@
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
     },
-    "price": 0.18
+    "value": 0.48
   },
   {
     "id": "me1-76",
@@ -4478,7 +4478,7 @@
       "small": "https://images.pokemontcg.io/me1/76.png",
       "large": "https://images.pokemontcg.io/me1/76_hires.png"
     },
-    "price": 0.14
+    "value": 0.35
   },
   {
     "id": "me1-77",
@@ -4544,7 +4544,7 @@
       "small": "https://images.pokemontcg.io/me1/77.png",
       "large": "https://images.pokemontcg.io/me1/77_hires.png"
     },
-    "price": 3.42
+    "value": 2.76
   },
   {
     "id": "me1-78",
@@ -4596,7 +4596,7 @@
       "small": "https://images.pokemontcg.io/me1/78.png",
       "large": "https://images.pokemontcg.io/me1/78_hires.png"
     },
-    "price": 0.46
+    "value": 0.3
   },
   {
     "id": "me1-79",
@@ -4646,7 +4646,7 @@
       "small": "https://images.pokemontcg.io/me1/79.png",
       "large": "https://images.pokemontcg.io/me1/79_hires.png"
     },
-    "price": 0.47
+    "value": 0.14
   },
   {
     "id": "me1-80",
@@ -4696,7 +4696,7 @@
       "small": "https://images.pokemontcg.io/me1/80.png",
       "large": "https://images.pokemontcg.io/me1/80_hires.png"
     },
-    "price": 0.33
+    "value": 0.29
   },
   {
     "id": "me1-81",
@@ -4757,7 +4757,7 @@
       "small": "https://images.pokemontcg.io/me1/81.png",
       "large": "https://images.pokemontcg.io/me1/81_hires.png"
     },
-    "price": 0.34
+    "value": 0.3
   },
   {
     "id": "me1-82",
@@ -4807,7 +4807,7 @@
       "small": "https://images.pokemontcg.io/me1/82.png",
       "large": "https://images.pokemontcg.io/me1/82_hires.png"
     },
-    "price": 0.29
+    "value": 0.46
   },
   {
     "id": "me1-83",
@@ -4860,7 +4860,7 @@
       "small": "https://images.pokemontcg.io/me1/83.png",
       "large": "https://images.pokemontcg.io/me1/83_hires.png"
     },
-    "price": 0.13
+    "value": 0.44
   },
   {
     "id": "me1-84",
@@ -4922,7 +4922,7 @@
       "small": "https://images.pokemontcg.io/me1/84.png",
       "large": "https://images.pokemontcg.io/me1/84_hires.png"
     },
-    "price": 0.26
+    "value": 0.34
   },
   {
     "id": "me1-85",
@@ -4985,7 +4985,7 @@
       "small": "https://images.pokemontcg.io/me1/85.png",
       "large": "https://images.pokemontcg.io/me1/85_hires.png"
     },
-    "price": 0.46
+    "value": 0.16
   },
   {
     "id": "me1-86",
@@ -5052,7 +5052,7 @@
       "small": "https://images.pokemontcg.io/me1/86.png",
       "large": "https://images.pokemontcg.io/me1/86_hires.png"
     },
-    "price": 1.83
+    "value": 3.74
   },
   {
     "id": "me1-87",
@@ -5108,7 +5108,7 @@
       "small": "https://images.pokemontcg.io/me1/87.png",
       "large": "https://images.pokemontcg.io/me1/87_hires.png"
     },
-    "price": 0.11
+    "value": 0.41
   },
   {
     "id": "me1-88",
@@ -5170,7 +5170,7 @@
       "small": "https://images.pokemontcg.io/me1/88.png",
       "large": "https://images.pokemontcg.io/me1/88_hires.png"
     },
-    "price": 0.61
+    "value": 0.85
   },
   {
     "id": "me1-89",
@@ -5222,7 +5222,7 @@
       "small": "https://images.pokemontcg.io/me1/89.png",
       "large": "https://images.pokemontcg.io/me1/89_hires.png"
     },
-    "price": 0.29
+    "value": 0.17
   },
   {
     "id": "me1-90",
@@ -5282,7 +5282,7 @@
       "small": "https://images.pokemontcg.io/me1/90.png",
       "large": "https://images.pokemontcg.io/me1/90_hires.png"
     },
-    "price": 0.43
+    "value": 0.26
   },
   {
     "id": "me1-91",
@@ -5332,7 +5332,7 @@
       "small": "https://images.pokemontcg.io/me1/91.png",
       "large": "https://images.pokemontcg.io/me1/91_hires.png"
     },
-    "price": 0.29
+    "value": 0.45
   },
   {
     "id": "me1-92",
@@ -5383,7 +5383,7 @@
       "small": "https://images.pokemontcg.io/me1/92.png",
       "large": "https://images.pokemontcg.io/me1/92_hires.png"
     },
-    "price": 0.32
+    "value": 0.5
   },
   {
     "id": "me1-93",
@@ -5455,7 +5455,7 @@
       "small": "https://images.pokemontcg.io/me1/93.png",
       "large": "https://images.pokemontcg.io/me1/93_hires.png"
     },
-    "price": 0.63
+    "value": 0.92
   },
   {
     "id": "me1-94",
@@ -5528,7 +5528,7 @@
       "small": "https://images.pokemontcg.io/me1/94.png",
       "large": "https://images.pokemontcg.io/me1/94_hires.png"
     },
-    "price": 3.23
+    "value": 3.6
   },
   {
     "id": "me1-95",
@@ -5595,7 +5595,7 @@
       "small": "https://images.pokemontcg.io/me1/95.png",
       "large": "https://images.pokemontcg.io/me1/95_hires.png"
     },
-    "price": 0.86
+    "value": 0.67
   },
   {
     "id": "me1-96",
@@ -5650,7 +5650,7 @@
       "small": "https://images.pokemontcg.io/me1/96.png",
       "large": "https://images.pokemontcg.io/me1/96_hires.png"
     },
-    "price": 0.35
+    "value": 0.29
   },
   {
     "id": "me1-97",
@@ -5714,7 +5714,7 @@
       "small": "https://images.pokemontcg.io/me1/97.png",
       "large": "https://images.pokemontcg.io/me1/97_hires.png"
     },
-    "price": 0.39
+    "value": 0.23
   },
   {
     "id": "me1-98",
@@ -5771,7 +5771,7 @@
       "small": "https://images.pokemontcg.io/me1/98.png",
       "large": "https://images.pokemontcg.io/me1/98_hires.png"
     },
-    "price": 0.34
+    "value": 0.31
   },
   {
     "id": "me1-99",
@@ -5839,7 +5839,7 @@
       "small": "https://images.pokemontcg.io/me1/99.png",
       "large": "https://images.pokemontcg.io/me1/99_hires.png"
     },
-    "price": 0.29
+    "value": 0.26
   },
   {
     "id": "me1-100",
@@ -5898,7 +5898,7 @@
       "small": "https://images.pokemontcg.io/me1/100.png",
       "large": "https://images.pokemontcg.io/me1/100_hires.png"
     },
-    "price": 1.96
+    "value": 2.22
   },
   {
     "id": "me1-101",
@@ -5950,7 +5950,7 @@
       "small": "https://images.pokemontcg.io/me1/101.png",
       "large": "https://images.pokemontcg.io/me1/101_hires.png"
     },
-    "price": 0.44
+    "value": 0.2
   },
   {
     "id": "me1-102",
@@ -6008,7 +6008,7 @@
       "small": "https://images.pokemontcg.io/me1/102.png",
       "large": "https://images.pokemontcg.io/me1/102_hires.png"
     },
-    "price": 0.13
+    "value": 0.2
   },
   {
     "id": "me1-103",
@@ -6064,7 +6064,7 @@
       "small": "https://images.pokemontcg.io/me1/103.png",
       "large": "https://images.pokemontcg.io/me1/103_hires.png"
     },
-    "price": 0.41
+    "value": 0.22
   },
   {
     "id": "me1-104",
@@ -6129,7 +6129,7 @@
       "small": "https://images.pokemontcg.io/me1/104.png",
       "large": "https://images.pokemontcg.io/me1/104_hires.png"
     },
-    "price": 3.39
+    "value": 3.02
   },
   {
     "id": "me1-105",
@@ -6194,7 +6194,7 @@
       "small": "https://images.pokemontcg.io/me1/105.png",
       "large": "https://images.pokemontcg.io/me1/105_hires.png"
     },
-    "price": 0.39
+    "value": 0.12
   },
   {
     "id": "me1-106",
@@ -6256,7 +6256,7 @@
       "small": "https://images.pokemontcg.io/me1/106.png",
       "large": "https://images.pokemontcg.io/me1/106_hires.png"
     },
-    "price": 0.41
+    "value": 0.35
   },
   {
     "id": "me1-107",
@@ -6317,7 +6317,7 @@
       "small": "https://images.pokemontcg.io/me1/107.png",
       "large": "https://images.pokemontcg.io/me1/107_hires.png"
     },
-    "price": 0.16
+    "value": 0.48
   },
   {
     "id": "me1-108",
@@ -6377,7 +6377,7 @@
       "small": "https://images.pokemontcg.io/me1/108.png",
       "large": "https://images.pokemontcg.io/me1/108_hires.png"
     },
-    "price": 0.25
+    "value": 0.39
   },
   {
     "id": "me1-109",
@@ -6439,7 +6439,7 @@
       "small": "https://images.pokemontcg.io/me1/109.png",
       "large": "https://images.pokemontcg.io/me1/109_hires.png"
     },
-    "price": 0.24
+    "value": 0.26
   },
   {
     "id": "me1-110",
@@ -6497,7 +6497,7 @@
       "small": "https://images.pokemontcg.io/me1/110.png",
       "large": "https://images.pokemontcg.io/me1/110_hires.png"
     },
-    "price": 0.41
+    "value": 0.49
   },
   {
     "id": "me1-111",
@@ -6560,7 +6560,7 @@
       "small": "https://images.pokemontcg.io/me1/111.png",
       "large": "https://images.pokemontcg.io/me1/111_hires.png"
     },
-    "price": 0.25
+    "value": 0.46
   },
   {
     "id": "me1-112",
@@ -6624,7 +6624,7 @@
       "small": "https://images.pokemontcg.io/me1/112.png",
       "large": "https://images.pokemontcg.io/me1/112_hires.png"
     },
-    "price": 0.33
+    "value": 0.47
   },
   {
     "id": "me1-113",
@@ -6649,7 +6649,7 @@
       "small": "https://images.pokemontcg.io/me1/113.png",
       "large": "https://images.pokemontcg.io/me1/113_hires.png"
     },
-    "price": 0.46
+    "value": 0.35
   },
   {
     "id": "me1-114",
@@ -6674,7 +6674,7 @@
       "small": "https://images.pokemontcg.io/me1/114.png",
       "large": "https://images.pokemontcg.io/me1/114_hires.png"
     },
-    "price": 0.49
+    "value": 0.35
   },
   {
     "id": "me1-115",
@@ -6699,7 +6699,7 @@
       "small": "https://images.pokemontcg.io/me1/115.png",
       "large": "https://images.pokemontcg.io/me1/115_hires.png"
     },
-    "price": 0.23
+    "value": 0.34
   },
   {
     "id": "me1-116",
@@ -6724,7 +6724,7 @@
       "small": "https://images.pokemontcg.io/me1/116.png",
       "large": "https://images.pokemontcg.io/me1/116_hires.png"
     },
-    "price": 0.32
+    "value": 0.16
   },
   {
     "id": "me1-117",
@@ -6749,7 +6749,7 @@
       "small": "https://images.pokemontcg.io/me1/117.png",
       "large": "https://images.pokemontcg.io/me1/117_hires.png"
     },
-    "price": 0.36
+    "value": 0.48
   },
   {
     "id": "me1-118",
@@ -6774,7 +6774,7 @@
       "small": "https://images.pokemontcg.io/me1/118.png",
       "large": "https://images.pokemontcg.io/me1/118_hires.png"
     },
-    "price": 0.38
+    "value": 0.26
   },
   {
     "id": "me1-119",
@@ -6799,7 +6799,7 @@
       "small": "https://images.pokemontcg.io/me1/119.png",
       "large": "https://images.pokemontcg.io/me1/119_hires.png"
     },
-    "price": 0.28
+    "value": 0.28
   },
   {
     "id": "me1-120",
@@ -6824,7 +6824,7 @@
       "small": "https://images.pokemontcg.io/me1/120.png",
       "large": "https://images.pokemontcg.io/me1/120_hires.png"
     },
-    "price": 0.47
+    "value": 0.34
   },
   {
     "id": "me1-121",
@@ -6849,7 +6849,7 @@
       "small": "https://images.pokemontcg.io/me1/121.png",
       "large": "https://images.pokemontcg.io/me1/121_hires.png"
     },
-    "price": 0.46
+    "value": 0.14
   },
   {
     "id": "me1-122",
@@ -6874,7 +6874,7 @@
       "small": "https://images.pokemontcg.io/me1/122.png",
       "large": "https://images.pokemontcg.io/me1/122_hires.png"
     },
-    "price": 0.14
+    "value": 0.36
   },
   {
     "id": "me1-123",
@@ -6899,7 +6899,7 @@
       "small": "https://images.pokemontcg.io/me1/123.png",
       "large": "https://images.pokemontcg.io/me1/123_hires.png"
     },
-    "price": 0.45
+    "value": 0.24
   },
   {
     "id": "me1-124",
@@ -6924,7 +6924,7 @@
       "small": "https://images.pokemontcg.io/me1/124.png",
       "large": "https://images.pokemontcg.io/me1/124_hires.png"
     },
-    "price": 0.49
+    "value": 0.16
   },
   {
     "id": "me1-125",
@@ -6949,7 +6949,7 @@
       "small": "https://images.pokemontcg.io/me1/125.png",
       "large": "https://images.pokemontcg.io/me1/125_hires.png"
     },
-    "price": 0.42
+    "value": 0.13
   },
   {
     "id": "me1-126",
@@ -6974,7 +6974,7 @@
       "small": "https://images.pokemontcg.io/me1/126.png",
       "large": "https://images.pokemontcg.io/me1/126_hires.png"
     },
-    "price": 0.48
+    "value": 0.49
   },
   {
     "id": "me1-127",
@@ -6999,7 +6999,7 @@
       "small": "https://images.pokemontcg.io/me1/127.png",
       "large": "https://images.pokemontcg.io/me1/127_hires.png"
     },
-    "price": 0.12
+    "value": 0.28
   },
   {
     "id": "me1-128",
@@ -7024,7 +7024,7 @@
       "small": "https://images.pokemontcg.io/me1/128.png",
       "large": "https://images.pokemontcg.io/me1/128_hires.png"
     },
-    "price": 0.44
+    "value": 0.32
   },
   {
     "id": "me1-129",
@@ -7049,7 +7049,7 @@
       "small": "https://images.pokemontcg.io/me1/129.png",
       "large": "https://images.pokemontcg.io/me1/129_hires.png"
     },
-    "price": 0.18
+    "value": 0.33
   },
   {
     "id": "me1-130",
@@ -7074,7 +7074,7 @@
       "small": "https://images.pokemontcg.io/me1/130.png",
       "large": "https://images.pokemontcg.io/me1/130_hires.png"
     },
-    "price": 0.36
+    "value": 0.29
   },
   {
     "id": "me1-131",
@@ -7099,7 +7099,7 @@
       "small": "https://images.pokemontcg.io/me1/131.png",
       "large": "https://images.pokemontcg.io/me1/131_hires.png"
     },
-    "price": 0.24
+    "value": 0.43
   },
   {
     "id": "me1-132",
@@ -7124,7 +7124,7 @@
       "small": "https://images.pokemontcg.io/me1/132.png",
       "large": "https://images.pokemontcg.io/me1/132_hires.png"
     },
-    "price": 0.24
+    "value": 0.46
   },
   {
     "id": "me1-133",
@@ -7177,7 +7177,7 @@
       "small": "https://images.pokemontcg.io/me1/133.png",
       "large": "https://images.pokemontcg.io/me1/133_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-134",
@@ -7233,7 +7233,7 @@
       "small": "https://images.pokemontcg.io/me1/134.png",
       "large": "https://images.pokemontcg.io/me1/134_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-135",
@@ -7295,7 +7295,7 @@
       "small": "https://images.pokemontcg.io/me1/135.png",
       "large": "https://images.pokemontcg.io/me1/135_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-136",
@@ -7352,7 +7352,7 @@
       "small": "https://images.pokemontcg.io/me1/136.png",
       "large": "https://images.pokemontcg.io/me1/136_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-137",
@@ -7409,7 +7409,7 @@
       "small": "https://images.pokemontcg.io/me1/137.png",
       "large": "https://images.pokemontcg.io/me1/137_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-138",
@@ -7471,7 +7471,7 @@
       "small": "https://images.pokemontcg.io/me1/138.png",
       "large": "https://images.pokemontcg.io/me1/138_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-139",
@@ -7525,7 +7525,7 @@
       "small": "https://images.pokemontcg.io/me1/139.png",
       "large": "https://images.pokemontcg.io/me1/139_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-140",
@@ -7589,7 +7589,7 @@
       "small": "https://images.pokemontcg.io/me1/140.png",
       "large": "https://images.pokemontcg.io/me1/140_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-141",
@@ -7649,7 +7649,7 @@
       "small": "https://images.pokemontcg.io/me1/141.png",
       "large": "https://images.pokemontcg.io/me1/141_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-142",
@@ -7708,7 +7708,7 @@
       "small": "https://images.pokemontcg.io/me1/142.png",
       "large": "https://images.pokemontcg.io/me1/142_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-143",
@@ -7760,7 +7760,7 @@
       "small": "https://images.pokemontcg.io/me1/143.png",
       "large": "https://images.pokemontcg.io/me1/143_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-144",
@@ -7819,7 +7819,7 @@
       "small": "https://images.pokemontcg.io/me1/144.png",
       "large": "https://images.pokemontcg.io/me1/144_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-145",
@@ -7888,7 +7888,7 @@
       "small": "https://images.pokemontcg.io/me1/145.png",
       "large": "https://images.pokemontcg.io/me1/145_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-146",
@@ -7938,7 +7938,7 @@
       "small": "https://images.pokemontcg.io/me1/146.png",
       "large": "https://images.pokemontcg.io/me1/146_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-147",
@@ -8000,7 +8000,7 @@
       "small": "https://images.pokemontcg.io/me1/147.png",
       "large": "https://images.pokemontcg.io/me1/147_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-148",
@@ -8056,7 +8056,7 @@
       "small": "https://images.pokemontcg.io/me1/148.png",
       "large": "https://images.pokemontcg.io/me1/148_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-149",
@@ -8106,7 +8106,7 @@
       "small": "https://images.pokemontcg.io/me1/149.png",
       "large": "https://images.pokemontcg.io/me1/149_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-150",
@@ -8178,7 +8178,7 @@
       "small": "https://images.pokemontcg.io/me1/150.png",
       "large": "https://images.pokemontcg.io/me1/150_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-151",
@@ -8236,7 +8236,7 @@
       "small": "https://images.pokemontcg.io/me1/151.png",
       "large": "https://images.pokemontcg.io/me1/151_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-152",
@@ -8301,7 +8301,7 @@
       "small": "https://images.pokemontcg.io/me1/152.png",
       "large": "https://images.pokemontcg.io/me1/152_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-153",
@@ -8359,7 +8359,7 @@
       "small": "https://images.pokemontcg.io/me1/153.png",
       "large": "https://images.pokemontcg.io/me1/153_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-154",
@@ -8422,7 +8422,7 @@
       "small": "https://images.pokemontcg.io/me1/154.png",
       "large": "https://images.pokemontcg.io/me1/154_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-155",
@@ -8490,7 +8490,7 @@
       "small": "https://images.pokemontcg.io/me1/155.png",
       "large": "https://images.pokemontcg.io/me1/155_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-156",
@@ -8560,7 +8560,7 @@
       "small": "https://images.pokemontcg.io/me1/156.png",
       "large": "https://images.pokemontcg.io/me1/156_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-157",
@@ -8630,7 +8630,7 @@
       "small": "https://images.pokemontcg.io/me1/157.png",
       "large": "https://images.pokemontcg.io/me1/157_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-158",
@@ -8693,7 +8693,7 @@
       "small": "https://images.pokemontcg.io/me1/158.png",
       "large": "https://images.pokemontcg.io/me1/158_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-159",
@@ -8764,7 +8764,7 @@
       "small": "https://images.pokemontcg.io/me1/159.png",
       "large": "https://images.pokemontcg.io/me1/159_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-160",
@@ -8830,7 +8830,7 @@
       "small": "https://images.pokemontcg.io/me1/160.png",
       "large": "https://images.pokemontcg.io/me1/160_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-161",
@@ -8897,7 +8897,7 @@
       "small": "https://images.pokemontcg.io/me1/161.png",
       "large": "https://images.pokemontcg.io/me1/161_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-162",
@@ -8970,7 +8970,7 @@
       "small": "https://images.pokemontcg.io/me1/162.png",
       "large": "https://images.pokemontcg.io/me1/162_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-163",
@@ -9029,7 +9029,7 @@
       "small": "https://images.pokemontcg.io/me1/163.png",
       "large": "https://images.pokemontcg.io/me1/163_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-164",
@@ -9094,7 +9094,7 @@
       "small": "https://images.pokemontcg.io/me1/164.png",
       "large": "https://images.pokemontcg.io/me1/164_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-165",
@@ -9119,7 +9119,7 @@
       "small": "https://images.pokemontcg.io/me1/165.png",
       "large": "https://images.pokemontcg.io/me1/165_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-166",
@@ -9144,7 +9144,7 @@
       "small": "https://images.pokemontcg.io/me1/166.png",
       "large": "https://images.pokemontcg.io/me1/166_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-167",
@@ -9169,7 +9169,7 @@
       "small": "https://images.pokemontcg.io/me1/167.png",
       "large": "https://images.pokemontcg.io/me1/167_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-168",
@@ -9194,7 +9194,7 @@
       "small": "https://images.pokemontcg.io/me1/168.png",
       "large": "https://images.pokemontcg.io/me1/168_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-169",
@@ -9219,7 +9219,7 @@
       "small": "https://images.pokemontcg.io/me1/169.png",
       "large": "https://images.pokemontcg.io/me1/169_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-170",
@@ -9244,7 +9244,7 @@
       "small": "https://images.pokemontcg.io/me1/170.png",
       "large": "https://images.pokemontcg.io/me1/170_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-171",
@@ -9269,7 +9269,7 @@
       "small": "https://images.pokemontcg.io/me1/171.png",
       "large": "https://images.pokemontcg.io/me1/171_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-172",
@@ -9294,7 +9294,7 @@
       "small": "https://images.pokemontcg.io/me1/172.png",
       "large": "https://images.pokemontcg.io/me1/172_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-173",
@@ -9319,7 +9319,7 @@
       "small": "https://images.pokemontcg.io/me1/173.png",
       "large": "https://images.pokemontcg.io/me1/173_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-174",
@@ -9344,7 +9344,7 @@
       "small": "https://images.pokemontcg.io/me1/174.png",
       "large": "https://images.pokemontcg.io/me1/174_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-175",
@@ -9369,7 +9369,7 @@
       "small": "https://images.pokemontcg.io/me1/175.png",
       "large": "https://images.pokemontcg.io/me1/175_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-176",
@@ -9394,7 +9394,7 @@
       "small": "https://images.pokemontcg.io/me1/176.png",
       "large": "https://images.pokemontcg.io/me1/176_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-177",
@@ -9462,7 +9462,7 @@
       "small": "https://images.pokemontcg.io/me1/177.png",
       "large": "https://images.pokemontcg.io/me1/177_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-178",
@@ -9533,7 +9533,7 @@
       "small": "https://images.pokemontcg.io/me1/178.png",
       "large": "https://images.pokemontcg.io/me1/178_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-179",
@@ -9599,7 +9599,7 @@
       "small": "https://images.pokemontcg.io/me1/179.png",
       "large": "https://images.pokemontcg.io/me1/179_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-180",
@@ -9666,7 +9666,7 @@
       "small": "https://images.pokemontcg.io/me1/180.png",
       "large": "https://images.pokemontcg.io/me1/180_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-181",
@@ -9725,7 +9725,7 @@
       "small": "https://images.pokemontcg.io/me1/181.png",
       "large": "https://images.pokemontcg.io/me1/181_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-182",
@@ -9790,7 +9790,7 @@
       "small": "https://images.pokemontcg.io/me1/182.png",
       "large": "https://images.pokemontcg.io/me1/182_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-183",
@@ -9815,7 +9815,7 @@
       "small": "https://images.pokemontcg.io/me1/183.png",
       "large": "https://images.pokemontcg.io/me1/183_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-184",
@@ -9840,7 +9840,7 @@
       "small": "https://images.pokemontcg.io/me1/184.png",
       "large": "https://images.pokemontcg.io/me1/184_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-185",
@@ -9865,7 +9865,7 @@
       "small": "https://images.pokemontcg.io/me1/185.png",
       "large": "https://images.pokemontcg.io/me1/185_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-186",
@@ -9890,7 +9890,7 @@
       "small": "https://images.pokemontcg.io/me1/186.png",
       "large": "https://images.pokemontcg.io/me1/186_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-187",
@@ -9961,7 +9961,7 @@
       "small": "https://images.pokemontcg.io/me1/187.png",
       "large": "https://images.pokemontcg.io/me1/187_hires.png"
     },
-    "price": null
+    "value": 72.72
   },
   {
     "id": "me1-188",
@@ -10027,6 +10027,6 @@
       "small": "https://images.pokemontcg.io/me1/188.png",
       "large": "https://images.pokemontcg.io/me1/188_hires.png"
     },
-    "price": null
+    "value": 72.72
   }
 ]
