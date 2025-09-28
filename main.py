@@ -19,6 +19,7 @@ from models import (
     OfferRequest,
     ConfirmRequest,
 )
+import time
 
 app = FastAPI(
     title="PokeSwift API",
@@ -44,7 +45,20 @@ headers = {"x-api-key": api_key}
 cardDB = {}
 trades: Dict[str, Trade] = {}
 setCount = {}
-setCount["sv8pt5"] = 10
+setCount["sv8pt5"] = 1000
+
+setCount = {"sv8pt5": 1000}
+
+
+def auto_increase_setcount(set_id: str, increment: int = 10, interval: int = 60):
+    """Increase setCount[set_id] every `interval` seconds by `increment`."""
+    while True:
+        time.sleep(interval)  # wait N seconds
+        setCount[set_id] += increment
+        print(f"{set_id} → {setCount[set_id]}")
+
+
+auto_increase_setcount("sv8pt5")
 
 
 @app.get("/trades/get-all")
