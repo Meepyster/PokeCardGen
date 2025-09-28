@@ -6,7 +6,7 @@ class Card(BaseModel):
     id: str
     card_title: str
     name: str
-    base_experience: str
+    base_experience: int
     card_image: str
     rarity: str
     subtypes: List[str]
