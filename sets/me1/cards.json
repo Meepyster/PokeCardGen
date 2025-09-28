@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "me1-1",
+    "card_title": "Bulbasaur",
+    "name": "Bulbasaur",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.39,
+    "real_market_value": 0.39,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-2",
+    "card_title": "Ivysaur",
+    "name": "Ivysaur",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.29,
+    "real_market_value": 0.29,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-3",
+    "card_title": "Mega Venusaur ex",
+    "name": "Mega Venusaur ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 3.16,
+    "real_market_value": 3.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-4",
+    "card_title": "Exeggcute",
+    "name": "Exeggcute",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.47,
+    "real_market_value": 0.47,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-5",
+    "card_title": "Exeggutor",
+    "name": "Exeggutor",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.5,
+    "real_market_value": 0.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-6",
+    "card_title": "Tangela",
+    "name": "Tangela",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-7",
+    "card_title": "Tangrowth",
+    "name": "Tangrowth",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-8",
+    "card_title": "Chikorita",
+    "name": "Chikorita",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-9",
+    "card_title": "Bayleef",
+    "name": "Bayleef",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.42,
+    "real_market_value": 0.42,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-10",
+    "card_title": "Meganium",
+    "name": "Meganium",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.89,
+    "real_market_value": 0.89,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-11",
+    "card_title": "Shuckle",
+    "name": "Shuckle",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-12",
+    "card_title": "Celebi",
+    "name": "Celebi",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-13",
+    "card_title": "Seedot",
+    "name": "Seedot",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.25,
+    "real_market_value": 0.25,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-14",
+    "card_title": "Nuzleaf",
+    "name": "Nuzleaf",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.29,
+    "real_market_value": 0.29,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-15",
+    "card_title": "Shiftry",
+    "name": "Shiftry",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.47,
+    "real_market_value": 0.47,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-16",
+    "card_title": "Nincada",
+    "name": "Nincada",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-17",
+    "card_title": "Ninjask",
+    "name": "Ninjask",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.45,
+    "real_market_value": 0.45,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-18",
+    "card_title": "Dhelmise",
+    "name": "Dhelmise",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-19",
+    "card_title": "Vulpix",
+    "name": "Vulpix",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.47,
+    "real_market_value": 0.47,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-20",
+    "card_title": "Ninetales",
+    "name": "Ninetales",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-21",
+    "card_title": "Numel",
+    "name": "Numel",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.19,
+    "real_market_value": 0.19,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-22",
+    "card_title": "Mega Camerupt ex",
+    "name": "Mega Camerupt ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 2.03,
+    "real_market_value": 2.03,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-23",
+    "card_title": "Litleo",
+    "name": "Litleo",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-24",
+    "card_title": "Pyroar",
+    "name": "Pyroar",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.33,
+    "real_market_value": 0.33,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-25",
+    "card_title": "Volcanion",
+    "name": "Volcanion",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-26",
+    "card_title": "Scorbunny",
+    "name": "Scorbunny",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.13,
+    "real_market_value": 0.13,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-27",
+    "card_title": "Raboot",
+    "name": "Raboot",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-28",
+    "card_title": "Cinderace",
+    "name": "Cinderace",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.98,
+    "real_market_value": 0.98,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-29",
+    "card_title": "Sizzlipede",
+    "name": "Sizzlipede",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-30",
+    "card_title": "Centiskorch",
+    "name": "Centiskorch",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.42,
+    "real_market_value": 0.42,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-31",
+    "card_title": "Chi-Yu",
+    "name": "Chi-Yu",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.39,
+    "real_market_value": 0.39,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-32",
+    "card_title": "Mantine",
+    "name": "Mantine",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.3,
+    "real_market_value": 0.3,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-33",
+    "card_title": "Corphish",
+    "name": "Corphish",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.2,
+    "real_market_value": 0.2,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-34",
+    "card_title": "Kyogre",
+    "name": "Kyogre",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.56,
+    "real_market_value": 0.56,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-35",
+    "card_title": "Snover",
+    "name": "Snover",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.28,
+    "real_market_value": 0.28,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-36",
+    "card_title": "Mega Abomasnow ex",
+    "name": "Mega Abomasnow ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 2.99,
+    "real_market_value": 2.99,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-37",
+    "card_title": "Clauncher",
+    "name": "Clauncher",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-38",
+    "card_title": "Clawitzer",
+    "name": "Clawitzer",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.59,
+    "real_market_value": 0.59,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-39",
+    "card_title": "Sobble",
+    "name": "Sobble",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-40",
+    "card_title": "Drizzile",
+    "name": "Drizzile",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-41",
+    "card_title": "Inteleon",
+    "name": "Inteleon",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-42",
+    "card_title": "Snom",
+    "name": "Snom",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.4,
+    "real_market_value": 0.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-43",
+    "card_title": "Frosmoth",
+    "name": "Frosmoth",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-44",
+    "card_title": "Eiscue",
+    "name": "Eiscue",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-45",
+    "card_title": "Magnemite",
+    "name": "Magnemite",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.33,
+    "real_market_value": 0.33,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-46",
+    "card_title": "Magneton",
+    "name": "Magneton",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.41,
+    "real_market_value": 0.41,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-47",
+    "card_title": "Magnezone",
+    "name": "Magnezone",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-48",
+    "card_title": "Raikou",
+    "name": "Raikou",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.9,
+    "real_market_value": 0.9,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-49",
+    "card_title": "Electrike",
+    "name": "Electrike",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-50",
+    "card_title": "Mega Manectric ex",
+    "name": "Mega Manectric ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 3.32,
+    "real_market_value": 3.32,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-51",
+    "card_title": "Pachirisu",
+    "name": "Pachirisu",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.38,
+    "real_market_value": 0.38,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-52",
+    "card_title": "Helioptile",
+    "name": "Helioptile",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-53",
+    "card_title": "Heliolisk",
+    "name": "Heliolisk",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.13,
+    "real_market_value": 0.13,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-54",
+    "card_title": "Abra",
+    "name": "Abra",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.27,
+    "real_market_value": 0.27,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-55",
+    "card_title": "Kadabra",
+    "name": "Kadabra",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-56",
+    "card_title": "Alakazam",
+    "name": "Alakazam",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.64,
+    "real_market_value": 0.64,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-57",
+    "card_title": "Jynx",
+    "name": "Jynx",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.31,
+    "real_market_value": 0.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-58",
+    "card_title": "Ralts",
+    "name": "Ralts",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.46,
+    "real_market_value": 0.46,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-59",
+    "card_title": "Kirlia",
+    "name": "Kirlia",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-60",
+    "card_title": "Mega Gardevoir ex",
+    "name": "Mega Gardevoir ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 2.43,
+    "real_market_value": 2.43,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-61",
+    "card_title": "Shedinja",
+    "name": "Shedinja",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.33,
+    "real_market_value": 0.33,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-62",
+    "card_title": "Spoink",
+    "name": "Spoink",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-63",
+    "card_title": "Grumpig",
+    "name": "Grumpig",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.39,
+    "real_market_value": 0.39,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-64",
+    "card_title": "Xerneas",
+    "name": "Xerneas",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.97,
+    "real_market_value": 0.97,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-65",
+    "card_title": "Greavard",
+    "name": "Greavard",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.13,
+    "real_market_value": 0.13,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-66",
+    "card_title": "Houndstone",
+    "name": "Houndstone",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.25,
+    "real_market_value": 0.25,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-67",
+    "card_title": "Gimmighoul",
+    "name": "Gimmighoul",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.15,
+    "real_market_value": 0.15,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-68",
+    "card_title": "Sandshrew",
+    "name": "Sandshrew",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.43,
+    "real_market_value": 0.43,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-69",
+    "card_title": "Sandslash",
+    "name": "Sandslash",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.22,
+    "real_market_value": 0.22,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-70",
+    "card_title": "Onix",
+    "name": "Onix",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-71",
+    "card_title": "Tyrogue",
+    "name": "Tyrogue",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-72",
+    "card_title": "Makuhita",
+    "name": "Makuhita",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.2,
+    "real_market_value": 0.2,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-73",
+    "card_title": "Hariyama",
+    "name": "Hariyama",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.97,
+    "real_market_value": 0.97,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-74",
+    "card_title": "Lunatone",
+    "name": "Lunatone",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.98,
+    "real_market_value": 0.98,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-75",
+    "card_title": "Solrock",
+    "name": "Solrock",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-76",
+    "card_title": "Riolu",
+    "name": "Riolu",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.11,
+    "real_market_value": 0.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-77",
+    "card_title": "Mega Lucario ex",
+    "name": "Mega Lucario ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 2.96,
+    "real_market_value": 2.96,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-78",
+    "card_title": "Croagunk",
+    "name": "Croagunk",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.45,
+    "real_market_value": 0.45,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-79",
+    "card_title": "Toxicroak",
+    "name": "Toxicroak",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.46,
+    "real_market_value": 0.46,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-80",
+    "card_title": "Marshadow",
+    "name": "Marshadow",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.47,
+    "real_market_value": 0.47,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-81",
+    "card_title": "Stonjourner",
+    "name": "Stonjourner",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.4,
+    "real_market_value": 0.4,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-82",
+    "card_title": "Nacli",
+    "name": "Nacli",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-83",
+    "card_title": "Naclstack",
+    "name": "Naclstack",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.36,
+    "real_market_value": 0.36,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-84",
+    "card_title": "Garganacl",
+    "name": "Garganacl",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-85",
+    "card_title": "Crawdaunt",
+    "name": "Crawdaunt",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.26,
+    "real_market_value": 0.26,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-86",
+    "card_title": "Mega Absol ex",
+    "name": "Mega Absol ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 1.77,
+    "real_market_value": 1.77,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-87",
+    "card_title": "Spiritomb",
+    "name": "Spiritomb",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.39,
+    "real_market_value": 0.39,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-88",
+    "card_title": "Yveltal",
+    "name": "Yveltal",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.95,
+    "real_market_value": 0.95,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-89",
+    "card_title": "Nickit",
+    "name": "Nickit",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.23,
+    "real_market_value": 0.23,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-90",
+    "card_title": "Thievul",
+    "name": "Thievul",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-91",
+    "card_title": "Shroodle",
+    "name": "Shroodle",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.2,
+    "real_market_value": 0.2,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-92",
+    "card_title": "Grafaiai",
+    "name": "Grafaiai",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.23,
+    "real_market_value": 0.23,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-93",
+    "card_title": "Steelix",
+    "name": "Steelix",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.67,
+    "real_market_value": 0.67,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-94",
+    "card_title": "Mega Mawile ex",
+    "name": "Mega Mawile ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 2.02,
+    "real_market_value": 2.02,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-95",
+    "card_title": "Dialga",
+    "name": "Dialga",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.71,
+    "real_market_value": 0.71,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-96",
+    "card_title": "Tinkatink",
+    "name": "Tinkatink",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-97",
+    "card_title": "Tinkatuff",
+    "name": "Tinkatuff",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-98",
+    "card_title": "Tinkaton",
+    "name": "Tinkaton",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 0.48,
+    "real_market_value": 0.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-99",
+    "card_title": "Gholdengo",
+    "name": "Gholdengo",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.23,
+    "real_market_value": 0.23,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-100",
+    "card_title": "Mega Latias ex",
+    "name": "Mega Latias ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 3.31,
+    "real_market_value": 3.31,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-101",
+    "card_title": "Latios",
+    "name": "Latios",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.48,
+    "real_market_value": 0.48,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-102",
+    "card_title": "Spearow",
+    "name": "Spearow",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.15,
+    "real_market_value": 0.15,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-103",
+    "card_title": "Fearow",
+    "name": "Fearow",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-104",
+    "card_title": "Mega Kangaskhan ex",
+    "name": "Mega Kangaskhan ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Double Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 3.55,
+    "real_market_value": 3.55,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-105",
+    "card_title": "Delibird",
+    "name": "Delibird",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-106",
+    "card_title": "Miltank",
+    "name": "Miltank",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.35,
+    "real_market_value": 0.35,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-107",
+    "card_title": "Buneary",
+    "name": "Buneary",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-108",
+    "card_title": "Lopunny",
+    "name": "Lopunny",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-109",
+    "card_title": "Yungoos",
+    "name": "Yungoos",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-110",
+    "card_title": "Gumshoos",
+    "name": "Gumshoos",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.17,
+    "real_market_value": 0.17,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-111",
+    "card_title": "Stufful",
+    "name": "Stufful",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 0.21,
+    "real_market_value": 0.21,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-112",
+    "card_title": "Bewear",
+    "name": "Bewear",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 0.29,
+    "real_market_value": 0.29,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-113",
+    "card_title": "Acerola's Mischief",
+    "name": "Acerola's Mischief",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.3,
+    "real_market_value": 0.3,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-114",
+    "card_title": "Boss's Orders",
+    "name": "Boss's Orders",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.47,
+    "real_market_value": 0.47,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-115",
+    "card_title": "Energy Switch",
+    "name": "Energy Switch",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-116",
+    "card_title": "Fighting Gong",
+    "name": "Fighting Gong",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.18,
+    "real_market_value": 0.18,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-117",
+    "card_title": "Forest of Vitality",
+    "name": "Forest of Vitality",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.37,
+    "real_market_value": 0.37,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-118",
+    "card_title": "Iron Defender",
+    "name": "Iron Defender",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-119",
+    "card_title": "Lillie's Determination",
+    "name": "Lillie's Determination",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.44,
+    "real_market_value": 0.44,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-120",
+    "card_title": "Lt. Surge's Bargain",
+    "name": "Lt. Surge's Bargain",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.11,
+    "real_market_value": 0.11,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-121",
+    "card_title": "Mega Signal",
+    "name": "Mega Signal",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.46,
+    "real_market_value": 0.46,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-122",
+    "card_title": "Mystery Garden",
+    "name": "Mystery Garden",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.25,
+    "real_market_value": 0.25,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-123",
+    "card_title": "Pokémon Center Lady",
+    "name": "Pokémon Center Lady",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.34,
+    "real_market_value": 0.34,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-124",
+    "card_title": "Premium Power Pro",
+    "name": "Premium Power Pro",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.16,
+    "real_market_value": 0.16,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-125",
+    "card_title": "Rare Candy",
+    "name": "Rare Candy",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.5,
+    "real_market_value": 0.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-126",
+    "card_title": "Repel",
+    "name": "Repel",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.3,
+    "real_market_value": 0.3,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-127",
+    "card_title": "Risky Ruins",
+    "name": "Risky Ruins",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.14,
+    "real_market_value": 0.14,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-128",
+    "card_title": "Strange Timepiece",
+    "name": "Strange Timepiece",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.42,
+    "real_market_value": 0.42,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-129",
+    "card_title": "Surfing Beach",
+    "name": "Surfing Beach",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 0.5,
+    "real_market_value": 0.5,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-130",
+    "card_title": "Switch",
+    "name": "Switch",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.49,
+    "real_market_value": 0.49,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-131",
+    "card_title": "Ultra Ball",
+    "name": "Ultra Ball",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Common",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 0.32,
+    "real_market_value": 0.32,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-132",
+    "card_title": "Wally's Compassion",
+    "name": "Wally's Compassion",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Uncommon",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 0.12,
+    "real_market_value": 0.12,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-133",
+    "card_title": "Bulbasaur",
+    "name": "Bulbasaur",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-134",
+    "card_title": "Ivysaur",
+    "name": "Ivysaur",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-135",
+    "card_title": "Exeggutor",
+    "name": "Exeggutor",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-136",
+    "card_title": "Shuckle",
+    "name": "Shuckle",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-137",
+    "card_title": "Ninjask",
+    "name": "Ninjask",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-138",
+    "card_title": "Vulpix",
+    "name": "Vulpix",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-139",
+    "card_title": "Litleo",
+    "name": "Litleo",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-140",
+    "card_title": "Snover",
+    "name": "Snover",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-141",
+    "card_title": "Clawitzer",
+    "name": "Clawitzer",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-142",
+    "card_title": "Inteleon",
+    "name": "Inteleon",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-143",
+    "card_title": "Helioptile",
+    "name": "Helioptile",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-144",
+    "card_title": "Shedinja",
+    "name": "Shedinja",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-145",
+    "card_title": "Houndstone",
+    "name": "Houndstone",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-146",
+    "card_title": "Marshadow",
+    "name": "Marshadow",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-147",
+    "card_title": "Garganacl",
+    "name": "Garganacl",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-148",
+    "card_title": "Spiritomb",
+    "name": "Spiritomb",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-149",
+    "card_title": "Shroodle",
+    "name": "Shroodle",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-150",
+    "card_title": "Steelix",
+    "name": "Steelix",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-151",
+    "card_title": "Spearow",
+    "name": "Spearow",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-152",
+    "card_title": "Delibird",
+    "name": "Delibird",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-153",
+    "card_title": "Gumshoos",
+    "name": "Gumshoos",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-154",
+    "card_title": "Stufful",
+    "name": "Stufful",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Illustration Rare",
+    "subtypes": [
+      "Basic"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-155",
+    "card_title": "Mega Venusaur ex",
+    "name": "Mega Venusaur ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-156",
+    "card_title": "Mega Camerupt ex",
+    "name": "Mega Camerupt ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-157",
+    "card_title": "Mega Abomasnow ex",
+    "name": "Mega Abomasnow ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-158",
+    "card_title": "Mega Manectric ex",
+    "name": "Mega Manectric ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-159",
+    "card_title": "Mega Gardevoir ex",
+    "name": "Mega Gardevoir ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-160",
+    "card_title": "Mega Lucario ex",
+    "name": "Mega Lucario ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-161",
+    "card_title": "Mega Absol ex",
+    "name": "Mega Absol ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-162",
+    "card_title": "Mega Mawile ex",
+    "name": "Mega Mawile ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-163",
+    "card_title": "Mega Latias ex",
+    "name": "Mega Latias ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-164",
+    "card_title": "Mega Kangaskhan ex",
+    "name": "Mega Kangaskhan ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-165",
+    "card_title": "Acerola's Mischief",
+    "name": "Acerola's Mischief",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-166",
+    "card_title": "Air Balloon",
+    "name": "Air Balloon",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-167",
+    "card_title": "Buddy-Buddy Poffin",
+    "name": "Buddy-Buddy Poffin",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-168",
+    "card_title": "Fighting Gong",
+    "name": "Fighting Gong",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-169",
+    "card_title": "Lillie's Determination",
+    "name": "Lillie's Determination",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-170",
+    "card_title": "Lt. Surge's Bargain",
+    "name": "Lt. Surge's Bargain",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-171",
+    "card_title": "Mega Signal",
+    "name": "Mega Signal",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-172",
+    "card_title": "Mystery Garden",
+    "name": "Mystery Garden",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Stadium"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-173",
+    "card_title": "Night Stretcher",
+    "name": "Night Stretcher",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-174",
+    "card_title": "Premium Power Pro",
+    "name": "Premium Power Pro",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-175",
+    "card_title": "Rare Candy",
+    "name": "Rare Candy",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Item"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-176",
+    "card_title": "Wally's Compassion",
+    "name": "Wally's Compassion",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Ultra Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-177",
+    "card_title": "Mega Venusaur ex",
+    "name": "Mega Venusaur ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-178",
+    "card_title": "Mega Gardevoir ex",
+    "name": "Mega Gardevoir ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-179",
+    "card_title": "Mega Lucario ex",
+    "name": "Mega Lucario ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-180",
+    "card_title": "Mega Absol ex",
+    "name": "Mega Absol ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-181",
+    "card_title": "Mega Latias ex",
+    "name": "Mega Latias ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-182",
+    "card_title": "Mega Kangaskhan ex",
+    "name": "Mega Kangaskhan ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-183",
+    "card_title": "Acerola's Mischief",
+    "name": "Acerola's Mischief",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-184",
+    "card_title": "Lillie's Determination",
+    "name": "Lillie's Determination",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-185",
+    "card_title": "Lt. Surge's Bargain",
+    "name": "Lt. Surge's Bargain",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-186",
+    "card_title": "Wally's Compassion",
+    "name": "Wally's Compassion",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Special Illustration Rare",
+    "subtypes": [
+      "Supporter"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-187",
+    "card_title": "Mega Gardevoir ex",
+    "name": "Mega Gardevoir ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Mega Hyper Rare",
+    "subtypes": [
+      "Stage 2",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  },
+  {
+    "id": "me1-188",
+    "card_title": "Mega Lucario ex",
+    "name": "Mega Lucario ex",
+    "base_experience": 1000,
+    "card_image": "",
+    "rarity": "Mega Hyper Rare",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "value": 72.72,
+    "real_market_value": 72.72,
+    "discrepancy_ratio": 1.0
+  }
+]

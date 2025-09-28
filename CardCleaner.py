@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 
 base_folder = "sets"
-set_id = "sv8pt5"
+set_id = "me1"
 
 
 folder = os.path.join(base_folder, set_id)
@@ -15,7 +15,7 @@ def clean_card(card: dict) -> dict:
         "id": card.get("id", ""),
         "card_title": card.get("name", ""),
         "name": card.get("name", ""),
-        "base_experience": "1000",
+        "base_experience": 1000,
         "card_image": card.get("images", {}).get("large", ""),
         "rarity": card.get("rarity", "Unknown"),
         "subtypes": card.get("subtypes", []),
@@ -35,4 +35,4 @@ def clean_json_file(input_file: str, output_file: str):
         json.dump(cleaned_cards, f, indent=2, ensure_ascii=False)
 
 
-clean_json_file(card_file, "sv8pt5_cards_clean.json")
+clean_json_file(card_file, f"{set_id}_clean.json")

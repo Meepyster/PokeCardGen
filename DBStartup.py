@@ -18,7 +18,7 @@ def init_db():
     conn.commit()
 
     # Seed with your sets (only runs if missing)
-    sets = [("sv8pt5", 1000, 10)]
+    sets = [("sv8pt5", 1000, 10), ("me1", 1000, 10)]
     for set_id, count, regen in sets:
         c.execute(
             """

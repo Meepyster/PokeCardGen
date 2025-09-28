@@ -1,5 +1,5 @@
 {
-  "set_id": "me1",
+  "set_id": "sv8pt5",
   "rarities": [
     "Common",
     "Uncommon",
@@ -9,8 +9,8 @@
     "Special Illustration Rare",
     "Hyper Rare"
   ],
-  "variance": {
-    "low": 0.80,
+  "variance":{
+    "low" : 0.80,
     "high": 1.20
   },
   "pack_structure": {
