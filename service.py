@@ -61,6 +61,7 @@ def open_pack(set_id, base_folder="sets", use_subfolder=True):
     for card in pack:
         card["id"] = str(uuid.uuid4())
         total += card["value"]
+        card["base_experience"] = 1000
     card_response["total_value"] = total
     card_response["realworld_total_value"] = total
     return card_response
