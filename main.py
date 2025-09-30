@@ -71,13 +71,13 @@ def update_set(set_id: str, new_count: int):
 
 async def auto_regen():
     while True:
-        await asyncio.sleep(600)
+        await asyncio.sleep(60)
         conn = sqlite3.connect(DB_FILE)
         c = conn.cursor()
         c.execute("SELECT set_id, count, regen_per_minute FROM sets")
         rows = c.fetchall()
         for set_id, count, regen in rows:
-            new_count = min(count + regen, 1000)
+            new_count = min(count + regen, 150)
             c.execute("UPDATE sets SET count = ? WHERE set_id = ?", (new_count, set_id))
         conn.commit()
         conn.close()
@@ -106,13 +106,13 @@ async def pull(set_id: str):
                     "card_image": "https://i.redd.it/2wttjntmyfhd1.png",
                     "rarity": "Common",
                     "subtypes": ["Basic"],
-                    "value": 0.00,
+                    "value": 9.00,
                     "real_market_value": 0.00,
                     "discrepancy_ratio": 0.00,
                 }
             ],
-            "total_value": 0.00,
-            "realworld_total_value": 0.00,
+            "total_value": 9.00,
+            "realworld_total_value": 9.00,
         }
     await asyncio.sleep(1)
     update_set(set_id, count - 1)
@@ -126,6 +126,33 @@ async def status(set_id: str):
         return {"error": "Unknown set"}
     count, regen = row
     return {"set_id": set_id, "remaining": count, "regen_per_minute": regen}
+
+
+@app.patch("/update-set/{set_id}/{amt}")
+def edit_set(set_id: str, amt: int):
+    row = get_set(set_id)
+    if not row:
+        return {"error": "Unknown set"}
+    old, _ = row
+    update_set(set_id, amt)
+    new, _ = row
+    return f"Set: {set_id}\nOld: {old}\nNew: {new}"
+
+
+@app.get("/get-multi-set/{set_id}/{amt}")
+def buy_sets(set_id: str, amt: int):
+    row = get_set(set_id)
+    if not row:
+        return {"error": "Unknown set"}
+    count, _ = row
+    if count >= amt:
+        update_set(set_id, count - amt)
+        return "done"
+
+
+@app.get("/profit")
+def get_profit():
+    return "xd"
 
 
 @app.get("/trades/get-all")
